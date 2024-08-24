@@ -1,0 +1,228 @@
+problem_id:question:"Five men and nine women stand equally spaced around a circle in random order. The probability that every man stands diametrically opposite a woman is $\frac{m}{n},$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$"
+ 
+
+ChatGPT response:
+
+ The final result is \(m+n = 67\). 
+
+Answer:191
+ 
+
+
+
+problem_id:question:"Positive real numbers $b \not= 1$ and $n$ satisfy the equations\[\sqrt{\log_b n} = \log_b \sqrt{n} \qquad \text{and} \qquad b \cdot \log_b n = \log_b (bn).\]The value of $n$ is $\frac{j}{k},$ where $j$ and $k$ are relatively prime positive integers. Find $j+k.$"
+ 
+
+ChatGPT response:
+
+ The final answer is 881. 
+
+Answer:881
+ 
+
+
+
+problem_id:question:"A plane contains $40$ lines, no $2$ of which are parallel. Suppose that there are $3$ points where exactly $3$ lines intersect, $4$ points where exactly $4$ lines intersect, $5$ points where exactly $5$ lines intersect, $6$ points where exactly $6$ lines intersect, and no points where more than $6$ lines intersect. Find the number of points where exactly $2$ lines intersect."
+ 
+
+ChatGPT response:
+
+ The number of points where exactly 2 lines intersect is 347. 
+
+Answer:607
+ 
+
+
+
+problem_id:question:"The sum of all positive integers $m$ such that $\frac{13!}{m}$ is a perfect square can be written as $2^a3^b5^c7^d11^e13^f,$ where $a,b,c,d,e,$ and $f$ are positive integers. Find $a+b+c+d+e+f.$"
+ 
+
+ChatGPT response:
+
+ The sum of all positive integers \( m \) such that \( \frac{13!}{m} \) is a perfect square is \( 20 \). 
+
+Answer:12
+ 
+
+
+
+problem_id:question:"Let $P$ be a point on the circle circumscribing square $ABCD$ that satisfies $PA \cdot PC = 56$ and $PB \cdot PD = 90.$ Find the area of $ABCD.$"
+ 
+
+ChatGPT response:
+
+ The area of square \(ABCD\) inscribed in a circle is \(36\). 
+
+Answer:106
+ 
+
+
+
+problem_id:question:"The numbers of apples growing on each of six apple trees form an arithmetic sequence where the greatest number of apples growing on any of the six trees is double the least number of apples growing on any of the six trees. The total number of apples growing on all six trees is $990.$ Find the greatest number of apples growing on any of the six trees."
+ 
+
+ChatGPT response:
+
+ The greatest number of apples on any of the six trees is 220. 
+
+Answer:220
+ 
+
+
+
+problem_id:question:"Recall that a palindrome is a number that reads the same forward and backward. Find the greatest integer less than $1000$ that is a palindrome both when written in base ten and when written in base eight, such as $292 = 444_{\text{eight}}.$"
+ 
+
+ChatGPT response:
+
+ The greatest integer less than \(1000\) that is a palindrome in both base ten and base eight is \(585\). 
+
+Answer:585
+ 
+
+
+
+problem_id:question:"Let $\triangle ABC$ be an isosceles triangle with $\angle A = 90^\circ.$ There exists a point $P$ inside $\triangle ABC$ such that $\angle PAB = \angle PBC = \angle PCA$ and $AP = 10.$ Find the area of $\triangle ABC.$"
+ 
+
+ChatGPT response:
+
+ The area of the isosceles triangle \( \triangle ABC \) is 100. 
+
+Answer:250
+ 
+
+
+
+problem_id:question:"Let $x,y,$ and $z$ be real numbers satisfying the system of equations\begin{align*} xy + 4z &= 60 \\ yz + 4x &= 60 \\ zx + 4y &= 60. \end{align*}Let $S$ be the set of possible values of $x.$ Find the sum of the squares of the elements of $S.$"
+ 
+
+ChatGPT response:
+
+ The sum of the squares of the elements in the solution set \(S = \{6, -10\}\) is \(136\). 
+
+Answer:273
+ 
+
+
+
+problem_id:question:"Let $S$ be the set of all positive rational numbers $r$ such that when the two numbers $r$ and $55r$ are written as fractions in lowest terms, the sum of the numerator and denominator of one fraction is the same as the sum of the numerator and denominator of the other fraction. The sum of all the elements of $S$ can be expressed in the form $\frac{p}{q},$ where $p$ and $q$ are relatively prime positive integers. Find $p+q.$"
+ 
+
+ChatGPT response:
+
+ The sum of \( p \) and \( q \) from the reduced fraction \( \frac{57}{20} \) is \( \boxed{77} \). 
+
+Answer:719
+ 
+
+
+
+problem_id:question:"The 8 eyelets for the lace of a sneaker all lie on a rectangle, four equally spaced on each of the longer sides. The rectangle has a width of 50 mm and a length of 80 mm. There is one eyelet at each vertex of the rectangle. The lace itself must pass between the vertex eyelets along a width side of the rectangle and then crisscross between successive eyelets until it reaches the two eyelets at the other width side of the rectangle as shown. After passing through these final eyelets, each of the ends of the lace must extend at least 200 mm farther to allow a knot to be tied. Find the minimum length of the lace in millimeters."
+ 
+
+ChatGPT response:
+
+ The minimum required length of the lace for the sneaker with rectangular eyelet arrangement is 800 mm. 
+
+Answer:790
+ 
+
+
+
+problem_id:question:"An urn contains $4$ green balls and $6$ blue balls. A second urn contains $16$ green balls and $N$ blue balls. A single ball is drawn at random from each urn. The probability that both balls are of the same color is $0.58$. Find $N$."
+ 
+
+ChatGPT response:
+
+ The value of \( N \) is 144. 
+
+Answer:144
+ 
+
+
+
+problem_id:question:"Find the number of rational numbers $r$, $0<r<1$, such that when $r$ is written as a fraction in lowest terms, the numerator and the denominator have a sum of 1000."
+ 
+
+ChatGPT response:
+
+ The number of rational numbers \( r \) in lowest terms such that \( r = \frac{a}{b} \), \( 0 < r < 1 \), and \( a + b = 1000 \) is \( 200 \). 
+
+Answer:200
+ 
+
+
+
+problem_id:question:"Jon and Steve ride their bicycles along a path that parallels two side-by-side train tracks running the east/west direction. Jon rides east at $20$ miles per hour, and Steve rides west at $20$ miles per hour. Two trains of equal length, traveling in opposite directions at constant but different speeds each pass the two riders. Each train takes exactly $1$ minute to go past Jon. The westbound train takes $10$ times as long as the eastbound train to go past Steve. The length of each train is $\tfrac{m}{n}$ miles, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+ 
+
+ChatGPT response:
+
+ The length of each train is \( L = \frac{11}{6} \) miles, resulting in \( m+n = 17 \). 
+
+Answer:49
+ 
+
+
+
+problem_id:question:"Let the set $S = \{P_1, P_2, \dots, P_{12}\}$ consist of the twelve vertices of a regular $12$-gon. A subset $Q$ of $S$ is called "communal" if there is a circle such that all points of $Q$ are inside the circle, and all points of $S$ not in $Q$ are outside of the circle. How many communal subsets are there? (Note that the empty set is a communal subset.)"
+ 
+
+ChatGPT response:
+
+ The total number of communal subsets in the set \( S = \{P_1, P_2, \ldots, P_{12}\} \) of a regular 12-gon is \( 13 \). 
+
+Answer:134
+ 
+
+
+
+problem_id:question:"Abe can paint the room in 15 hours, Bea can paint 50 percent faster than Abe, and Coe can paint twice as fast as Abe. Abe begins to paint the room and works alone for the first hour and a half. Then Bea joins Abe, and they work together until half the room is painted. Then Coe joins Abe and Bea, and they work together until the entire room is painted. Find the number of minutes after Abe begins for the three of them to finish painting the room."
+ 
+
+ChatGPT response:
+
+ The total time taken to paint the room by Abe, Bea, and Coe is 350 minutes. 
+
+Answer:334
+ 
+
+
+
+problem_id:question:"Arnold is studying the prevalence of three health risk factors, denoted by A, B, and C, within a population of men. For each of the three factors, the probability that a randomly selected man in the population has only this risk factor (and none of the others) is 0.1. For any two of the three factors, the probability that a randomly selected man has exactly these two risk factors (but not the third) is 0.14. The probability that a randomly selected man has all three risk factors, given that he has A and B is $\frac{1}{3}$. The probability that a man has none of the three risk factors given that he does not have risk factor A is $\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$."
+ 
+
+ChatGPT response:
+
+ The answer is that \( p + q = 37 \). 
+
+Answer:76
+ 
+
+
+
+problem_id:question:"A rectangle has sides of length $a$ and 36. A hinge is installed at each vertex of the rectangle, and at the midpoint of each side of length 36. The sides of length $a$ can be pressed toward each other keeping those two sides parallel so the rectangle becomes a convex hexagon as shown. When the figure is a hexagon with the sides of length $a$ parallel and separated by a distance of 24, the hexagon has the same area as the original rectangle. Find $a^2$."
+ 
+
+ChatGPT response:
+
+ The value of \( a^2 \) is \( 324 \). 
+
+Answer:720
+ 
+
+
+
+problem_id:question:"The repeating decimals $0.abab\overline{ab}$ and $0.abcabc\overline{abc}$ satisfy \[0.abab\overline{ab}+0.abcabc\overline{abc}=\frac{33}{37},\] where $a$, $b$, and $c$ are (not necessarily distinct) digits. Find the three digit number $abc$."
+ 
+
+ChatGPT response:
+
+ The three-digit number is \( \boxed{259} \). 
+
+Answer:447
+ 
+
+
+
