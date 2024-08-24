@@ -1,0 +1,139 @@
+question_number:aime_2015_1_p1
+question:"The expressions $A$ = $1 \times 2 + 3 \times 4 + 5 \times 6 + \cdots + 37 \times 38 + 39$ and $B$ = $1 + 2 \times 3 + 4 \times 5 + \cdots + 36 \times 37 + 38 \times 39$ are obtained by writing multiplication and addition operators in an alternating pattern between successive integers. Find the positive difference between integers $A$ and $B$."
+Answer:722
+concept: 
+source:
+status:run
+
+question_number:aime_2015_1_p2
+question:"The nine delegates to the Economic Cooperation Conference include $2$ officials from Mexico, $3$ officials from Canada, and $4$ officials from the United States. During the opening session, three of the delegates fall asleep. Assuming that the three sleepers were determined randomly, the probability that exactly two of the sleepers are from the same country is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:139
+concept: 
+source:
+status:run
+
+question_number:aime_2015_1_p3
+question:"There is a prime number $p$ such that $16p+1$ is the cube of a positive integer. Find $p$."
+Answer:307
+concept: 
+source:
+status:run
+
+question_number:aime_2015_1_p4
+question:"Point $B$ lies on line segment $\overline{AC}$ with $AB=16$ and $BC=4$. Points $D$ and $E$ lie on the same side of line $AC$ forming equilateral triangles $\triangle ABD$ and $\triangle BCE$. Let $M$ be the midpoint of $\overline{AE}$, and $N$ be the midpoint of $\overline{CD}$. The area of $\triangle BMN$ is $x$. Find $x^2$."
+Answer:507
+concept: 
+source:
+status:run
+
+question_number:aime_2015_1_p5
+question:"In a drawer Sandy has $5$ pairs of socks, each pair a different color. On Monday Sandy selects two individual socks at random from the $10$ socks in the drawer. On Tuesday Sandy selects $2$ of the remaining $8$ socks at random and on Wednesday two of the remaining $6$ socks at random. The probability that Wednesday is the first day Sandy selects matching socks is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers, Find $m+n$."
+Answer:341
+concept: 
+source:
+status:run
+
+question_number:aime_2015_2_p1
+question:"Let $N$ be the least positive integer that is both $22$ percent less than one integer and $16$ percent greater than another integer. Find the remainder when $N$ is divided by $1000$."
+Answer:131
+concept: 
+source:
+status:run
+
+question_number:aime_2015_2_p2
+question:"In a new school $40$ percent of the students are freshmen, $30$ percent are sophomores, $20$ percent are juniors, and $10$ percent are seniors. All freshmen are required to take Latin, and $80$ percent of the sophomores, $50$ percent of the juniors, and $20$ percent of the seniors elect to take Latin. The probability that a randomly chosen Latin student is a sophomore is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:25
+concept: 
+source:
+status:run
+
+question_number:aime_2015_2_p3
+question:"Let $m$ be the least positive integer divisible by $17$ whose digits sum to $17$. Find $m$."
+Answer:476
+concept: 
+source:
+status:run
+
+question_number:aime_2015_2_p4
+question:"In an isosceles trapezoid, the parallel bases have lengths $\log 3$ and $\log 192$, and the altitude to these bases has length $\log 16$. The perimeter of the trapezoid can be written in the form $\log 2^p 3^q$, where $p$ and $q$ are positive integers. Find $p + q$."
+Answer:18
+concept: 
+source:
+status:run
+
+question_number:aime_2015_2_p5
+question:"Two unit squares are selected at random without replacement from an $n \times n$ grid of unit squares. Find the least positive integer $n$ such that the probability that the two selected unit squares are horizontally or vertically adjacent is less than $\frac{1}{2015}$."
+Answer:90
+concept: 
+source:
+status:run
+
+question_number:aime_2016_1_p1
+question:"For $-1<r<1$, let $S(r)$ denote the sum of the geometric series\[12+12r+12r^2+12r^3+\cdots .\]Let $a$ between $-1$ and $1$ satisfy $S(a)S(-a)=2016$. Find $S(a)+S(-a)$."
+Answer:336
+concept: 
+source:
+status:run
+
+question_number:aime_2016_1_p2
+question:"Two dice appear to be normal dice with their faces numbered from $1$ to $6$, but each die is weighted so that the probability of rolling the number $k$ is directly proportional to $k$. The probability of rolling a $7$ with this pair of dice is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$."
+Answer:71
+concept: 
+source:
+status:run
+
+question_number:aime_2016_1_p3
+question:"A regular icosahedron is a $20$-faced solid where each face is an equilateral triangle and five triangles meet at every vertex. The regular icosahedron shown below has one vertex at the top, one vertex at the bottom, an upper pentagon of five vertices all adjacent to the top vertex and all in the same horizontal plane, and a lower pentagon of five vertices all adjacent to the bottom vertex and all in another horizontal plane. Find the number of paths from the top vertex to the bottom vertex such that each part of a path goes downward or horizontally along an edge of the icosahedron, and no vertex is repeated."
+Answer:810
+concept: 
+source:
+status:run
+
+question_number:aime_2016_1_p4
+question:"A right prism with height $h$ has bases that are regular hexagons with sides of length $12$. A vertex $A$ of the prism and its three adjacent vertices are the vertices of a triangular pyramid. The dihedral angle (the angle between the two planes) formed by the face of the pyramid that lies in a base of the prism and the face of the pyramid that does not contain $A$ measures $60$ degrees. Find $h^2$."
+Answer:108
+concept: 
+source:
+status:run
+
+question_number:aime_2016_1_p5
+question:"Anh read a book. On the first day she read $n$ pages in $t$ minutes, where $n$ and $t$ are positive integers. On the second day Anh read $n + 1$ pages in $t + 1$ minutes. Each day thereafter Anh read one more page than she read on the previous day, and it took her one more minute than on the previous day until she completely read the $374$ page book. It took her a total of $319$ minutes to read the book. Find $n + t$."
+Answer:53
+concept: 
+source:
+status:run
+
+question_number:aime_2016_2_p1
+question:"Initially Alex, Betty, and Charlie had a total of $444$ peanuts. Charlie had the most peanuts, and Alex had the least. The three numbers of peanuts that each person had formed a geometric progression. Alex eats $5$ of his peanuts, Betty eats $9$ of her peanuts, and Charlie eats $25$ of his peanuts. Now the three numbers of peanuts each person has forms an arithmetic progression. Find the number of peanuts Alex had initially."
+Answer:108
+concept: 
+source:
+status:run
+
+question_number:aime_2016_2_p2
+question:"There is a $40\%$ chance of rain on Saturday and a $30\%$ chance of rain on Sunday. However, it is twice as likely to rain on Sunday if it rains on Saturday than if it does not rain on Saturday. The probability that it rains at least one day this weekend is $\frac{a}{b}$, where $a$ and $b$ are relatively prime positive integers. Find $a+b$."
+Answer:107
+concept: 
+source:
+status:run
+
+question_number:aime_2016_2_p3
+question:"Let $x,y,$ and $z$ be real numbers satisfying the system\begin{align*} \log_2(xyz-3+\log_5 x)&=5,\\ \log_3(xyz-3+\log_5 y)&=4,\\ \log_4(xyz-3+\log_5 z)&=4.\\ \end{align*}Find the value of $|\log_5 x|+|\log_5 y|+|\log_5 z|$."
+Answer:265
+concept: 
+source:
+status:run
+
+question_number:aime_2016_2_p4
+question:"An $a \times b \times c$ rectangular box is built from $a \cdot b \cdot c$ unit cubes. Each unit cube is colored red, green, or yellow. Each of the $a$ layers of size $1 \times b \times c$ parallel to the $(b \times c)$ faces of the box contains exactly $9$ red cubes, exactly $12$ green cubes, and some yellow cubes. Each of the $b$ layers of size $a \times 1 \times c$ parallel to the $(a \times c)$ faces of the box contains exactly $20$ green cubes, exactly $25$ yellow cubes, and some red cubes. Find the smallest possible volume of the box."
+Answer:180
+concept: 
+source:
+status:run
+
+question_number:aime_2016_2_p5
+question:"Triangle $ABC_0$ has a right angle at $C_0$. Its side lengths are pairwise relatively prime positive integers, and its perimeter is $p$. Let $C_1$ be the foot of the altitude to $\overline{AB}$, and for $n \geq 2$, let $C_n$ be the foot of the altitude to $\overline{C_{n-2}B}$ in $\triangle C_{n-2}C_{n-1}B$. The sum $\sum_{n=2}^\infty C_{n-2}C_{n-1} = 6p$. Find $p$."
+Answer:182
+concept: 
+source:
+status:run
