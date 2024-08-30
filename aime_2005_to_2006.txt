@@ -1,0 +1,140 @@
+question_number:aime_2005_1_p1
+question:"Six congruent circles form a ring with each circle externally tangent to two circles adjacent to it. All circles are internally tangent to a circle C with radius 30. Let K be the area of the region inside circle C and outside of the six circles in the ring. Find the floor of K."
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2005_1_p2
+question:"For each positive integer k, let S_k denote the increasing arithmetic sequence of integers whose first term is 1 and whose common difference is k. For example, S_3 is the sequence 1,4,7,10,.... For how many values of k does S_k contain the term 2005?"
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2005_1_p3
+question:"How many positive integers have exactly three proper divisors (positive integral divisors excluding itself), each of which is less than 50?"
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2005_1_p4
+question:"The director of a marching band wishes to place the members into a formation that includes all of them and has no unfilled positions. If they are arranged in a square formation, there are 5 members left over. The director realizes that if he arranges the group in a formation with 7 more rows than columns, there are no members left over. Find the maximum number of members this band can have."
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2005_1_p5
+question:"Robert has 4 indistinguishable gold coins and 4 indistinguishable silver coins. Each coin has an engraving of one face on one side, but not on the other. He wants to stack the eight coins on a table into a single stack so that no two adjacent coins are face to face. Find the number of possible distinguishable arrangements of the 8 coins."
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2005_2_p1
+question:"A game uses a deck of $n$ different cards, where $n$ is an integer and $n \geq 6.$ The number of possible sets of 6 cards that can be drawn from the deck is 6 times the number of possible sets of 3 cards that can be drawn. Find $n.$"
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2005_2_p2
+question:"A hotel packed breakfast for each of three guests. Each breakfast should have consisted of three types of rolls, one each of nut, cheese, and fruit rolls. The preparer wrapped each of the nine rolls and once wrapped, the rolls were indistinguishable from one another. She then randomly put three rolls in a bag for each of the guests. Given that the probability each guest got one roll of each type is $\frac mn,$ where $m$ and $n$ are relatively prime integers, find $m+n.$"
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2005_2_p3
+question:"An infinite geometric series has sum 2005. A new series, obtained by squaring each term of the original series, has 10 times the sum of the original series. The common ratio of the original series is $\frac mn$ where $m$ and $n$ are relatively prime integers. Find $m+n.$"
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2005_2_p4
+question:"Find the number of positive integers that are divisors of at least one of $10^{10},15^7,18^{11}.$"
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2005_2_p5
+question:"Determine the number of ordered pairs $(a,b)$ of integers such that $\log_a b + 6\log_b a=5, 2 \leq a \leq 2005,$ and $2 \leq b \leq 2005.$"
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2006_1_p1
+question:"In quadrilateral $ABCD , \angle B$ is a right angle, diagonal $\overline{AC}$ is perpendicular to $\overline{CD},  AB=18, BC=21,$ and $CD=14.$ Find the perimeter of $ABCD.$"
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2006_1_p2
+question:"Let set A be a 90-element subset of {1,2,3,....,100}, and let S be the sum of the elements of A. Find the number of possible values of S."
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2006_1_p3
+question:"Find the least positive integer such that when its leftmost digit is deleted, the resulting integer is 1/29 of the original integer."
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2006_1_p4
+question:"Let N be the number of consecutive 0's at the right end of the decimal representation of the product 1!2!3!4!....99!100!. Find the remainder when N is divided by 1000."
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2006_1_p5
+question:"The number $\sqrt{104\sqrt{6}+468\sqrt{10}+144\sqrt{15}+2006}$ can be written as $a\sqrt{2}+b\sqrt{3}+c\sqrt{5},$ where a, b, and c are positive integers. Find abc."
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2006_2_p1
+question:""In convex hexagon $ABCDEF$, all six sides are congruent, $\angle A$ and $\angle D$ are right angles, and $\angle B, \angle C, \angle E,$ and $\angle F$ are congruent. The area of the hexagonal region is $2116(\sqrt{2}+1).$ Find $AB$.
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2006_2_p2
+question:"The lengths of the sides of a triangle with positive area are $\log_{10} 12$, $\log_{10} 75$, and $\log_{10} n$, where $n$ is a positive integer. Find the number of possible values for $n$."
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2006_2_p3
+question:"Let $P$ be the product of the first 100 positive odd integers. Find the largest integer $k$ such that $P$ is divisible by $3^k$."
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2006_2_p4
+question:"Let $(a_1,a_2,a_3,\ldots,a_{12})$ be a permutation of $(1,2,3,\ldots,12)$ for which $a_1>a_2>a_3>a_4>a_5>a_6 \mathrm{\  and \ } a_6<a_7<a_8<a_9<a_{10}<a_{11}<a_{12}.$ An example of such a permutation is $(6,5,4,3,2,1,7,8,9,10,11,12).$ Find the number of such permutations."
+Answer:
+concept: 
+source:
+status:run
+
+question_number:aime_2006_2_p5
+question:"When rolling a certain unfair six-sided die with faces numbered $1, 2, 3, 4, 5$, and $6$, the probability of obtaining face $F$ is greater than $\frac{1}{6}$, the probability of obtaining the face opposite is less than $\frac{1}{6}$, the probability of obtaining any one of the other four faces is $\frac{1}{6}$, and the sum of the numbers on opposite faces is 7. When two such dice are rolled, the probability of obtaining a sum of 7 is $\frac{47}{288}$. Given that the probability of obtaining face $F$ is $\frac{m}{n},$ where $m$ and $n$ are relatively prime positive integers, find $m+n.$"
+Answer:
+concept: 
+source:
+status:run
+
