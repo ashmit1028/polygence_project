@@ -1,0 +1,98 @@
+question_number:aime_2001_1_p2
+question:"A finite set S of distinct real numbers has the following properties: the mean of S U {1} is 13 less than the mean of S, and the mean of S U {2001} is 27 more than the mean of S. Find the mean of S"
+Answer:651
+concept: 
+source:
+status:run
+
+question_number:aime_2001_1_p2_1
+question:"A finite set S with N elements has mean M. Adding an element of value 1 to set S changes it's mean to M-13. Similarly, adding an element of value 2001 to set S changes it's mean to M+27. Find M."
+Answer:651
+concept: 
+source:
+status:run
+
+question_number:aime_2001_1_p3
+question:"Find the sum of the roots, real and non-real, of the equation $x^{2001}+\left(\frac 12-x\right)^{2001}=0$, given that there are no multiple roots."
+Answer:500
+concept: 
+source:
+status:run
+
+question_number:aime_2001_1_p3_1
+question:"Expand the equation $x^{2001}+\left(\frac 12-x\right)^{2001}=0$ using Binomial Theorem. Let the coefficients of the 2 highest powers of x in the resulting equation be a, b. Find -b/a."
+Answer:651
+concept: 
+source:
+status:run
+
+question_number:aime_2002_1_p3
+question:"Jane is 25 years old. Dick is older than Jane. In $n$ years, where $n$ is a positive integer, Dick's age and Jane's age will both be two-digit numbers and will have the property that Jane's age is obtained by interchanging the digits of Dick's age. Let $d$ be Dick's present age. How many ordered pairs of positive integers $(d,n)$ are possible?"
+Answer:25
+concept: 
+source:
+status:run
+
+question_number:aime_2002_1_p3_1
+question:"Jane is 25 years old. Dick is older than Jane. In $n$ years, where $n$ is a positive integer, Dick's age and Jane's age will both be two-digit numbers and will have the property that Jane's age is obtained by interchanging the digits of Dick's age. Form an equation representing this problem. Consider using a and b as digits of Jane's age."
+Answer: b > a or b-a >= 1
+concept: 
+source:
+status:run
+
+question_number:aime_2002_1_p3_2
+question:"Given two digits (a, b), and find all the pairs (a,b) that meet the conditions: a> 0, b > a, b−a ≥ 1, 10a + b > 25."
+Answer:25
+concept: 
+source:
+status:run
+
+question_number:aime_2002_1_p4
+question:"Consider the sequence defined by $a_k =\dfrac{1}{k^2+k}$ for $k\geq 1$. Given that $a_m+a_{m+1}+\cdots+a_{n-1}=\dfrac{1}{29}$, for positive integers $m$ and $n$ with $m<n$, find $m+n$."
+Answer:840
+concept: 
+source:
+status:run
+
+question_number:aime_2002_1_p4_1
+question:"Consider the sequence defined by $a_k =\dfrac{1}{k^2+k}$ for $k\geq 1$. Given that $a_m+a_{m+1}+\cdots+a_{n-1}=\dfrac{1}{29}$, for positive integers $m$ and $n$ with $m<n$, find an equation in m and n. Use this hint: Replace 29(n−m)=mn with mn - 29n = -29m."
+Answer:mn - 29n = -29m
+concept: 
+source:
+status:run
+
+question_number:aime_2002_1_p4_2
+question:"Given m,n are postive integers, solve this equation: mn − 29n = −29m. Note that substituting n = 29x where x is a positive integer helps simplify the solution. Find m + n."
+Answer:840
+concept: 
+source:
+status:run
+
+question_number:aime_2002_1_p6
+question:"The solutions to the system of equations $\log_{225}x+\log_{64}y=4$ and $\log_{x}225-\log_{y}64=1$ are $(x_1,y_1)$ and $(x_2,y_2)$. Find $\log_{30}\left(x_1y_1x_2y_2\right)$.
+Answer:12
+concept: 
+source:
+status:run
+
+question_number:aime_2002_1_p6_1
+question:"The solutions to the system of equations: $\log_{225}x+\log_{64}y=4$ and $\log_{x}225-\log_{y}64=1$ are $(x_1,y_1)$ and $(x_2,y_2)$. Find $\log_{30}\left(x_1y_1x_2y_2\right)$. Let a = \log_{225}x and b = log_{64}y."
+Answer:12
+concept: 
+source:
+status:run
+
+question_number:aime_2002_2_p1
+question:"Given that $x$ and $y$ are both integers between $100$ and $999$, inclusive; $y$ is the number formed by reversing the digits of $x$; and $z=|x-y|$. How many distinct values of $z$ are possible?"
+Answer:9
+concept: 
+source:
+status:run
+
+question_number:aime_2002_2_p1_1
+question:"Given that $x$ and $y$ are both integers between $100$ and $999$, inclusive; $y$ is the number formed by reversing the digits of $x$; and $z=|x-y|$. How many distinct values of $z$ are possible? Note that x and y are between 100 and 999."
+Answer:9
+concept: 
+source:
+status:run
+
