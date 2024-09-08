@@ -96,3 +96,135 @@ concept:
 source:
 status:run
 
+question_number:aime_2002_2_p2
+question:"Three vertices of a cube are $P=(7,12,10)$, $Q=(8,8,1)$, and $R=(11,3,9)$. What is the surface area of the cube?"
+Answer:294
+concept: 
+source:
+status:run
+
+question_number:aime_2002_2_p2_1
+question:"Three vertices of a cube are $P=(7,12,10)$, $Q=(8,8,1)$, and $R=(11,3,9)$. What is the surface area of the cube? Consider the shape of PQR, for instance, is it equilateral, isosceles, scalene, etc.?"
+Answer:294
+concept: 
+source:
+status:run
+
+question_number:aime_2002_2_p3
+question:"It is given that $\log_{6}a + \log_{6}b + \log_{6}c = 6$, where $a$, $b$, and $c$ are positive integers that form an increasing geometric sequence and $b - a$ is the square of an integer. Find $a + b + c$."
+Answer:111
+concept: 
+source:
+status:run
+
+question_number:aime_2002_2_p3_1
+question:"It is given that $\log_{6}a + \log_{6}b + \log_{6}c = 6$, where $a$, $b$, and $c$ are positive integers that form an increasing geometric sequence and $b - a$ is the square of an integer. Find $a + b + c$. What do we know since b is the middle term of a geometric sequence?"
+Answer:111
+concept: 
+source:
+status:run
+
+question_number:aime_2002_2_p5
+question:"Find the sum of all positive integers $a=2^n3^m$ where $n$ and $m$ are non-negative integers, for which $a^6$ is not a divisor of $6^a$."
+Answer:42
+concept: 
+source:
+status:run
+
+question_number:aime_2002_2_p5_1
+question:"Find the sum of all positive integers $a=2^n3^m$ where $n$ and $m$ are non-negative integers, for which $a^6$ is not a divisor of $6^a$. What about when n=4?"
+Answer:42
+concept: 
+source:
+status:run
+
+question_number:aime_2003_1_p2
+question:"One hundred concentric circles with radii $1, 2, 3, \dots, 100$ are drawn in a plane. The interior of the circle of radius $1$ is colored red, and each region bounded by consecutive circles is colored either red or green, with no two adjacent regions the same color. The ratio of the total area of the green regions to the area of the circle of radius $100$ can be expressed as $m/n,$ where $m$ and $n$ are relatively prime positive integers. Find $m + n.$"
+Answer:301
+concept: 
+source:
+status:run
+
+question_number:aime_2003_1_p2_1
+question:"One hundred concentric circles with radii $1, 2, 3, \dots, 100$ are drawn in a plane. The interior of the circle of radius $1$ is colored red, and each region bounded by consecutive circles is colored either red or green, with no two adjacent regions the same color. The ratio of the total area of the green regions to the area of the circle of radius $100$ can be expressed as $m/n,$ where $m$ and $n$ are relatively prime positive integers. Find $m + n.$"
+Answer:301
+concept: 
+source:
+status:run
+
+question_number:aime_2003_2_p2
+question:"Let $N$ be the greatest integer multiple of 8, no two of whose digits are the same. What is the remainder when $N$ is divided by 1000?"
+Answer:120
+concept: 
+source:
+status:run
+
+question_number:aime_2003_2_p2_1
+question:"Let $N$ be the greatest integer multiple of 8, no two of whose digits are the same. What is the remainder when $N$ is divided by 1000? Note that N can have 10 digits."
+Answer:120
+concept: 
+source:
+status:run
+
+question_number:aime_2003_2_p5
+question:"A cylindrical log has diameter $12$ inches. A wedge is cut from the log by making two planar cuts that go entirely through the log. The first is perpendicular to the axis of the cylinder, and the plane of the second cut forms a $45^\circ$ angle with the plane of the first cut. The intersection of these two planes has exactly one point in common with the log. The number of cubic inches in the wedge can be expressed as $n\pi$, where n is a positive integer. Find $n$."
+Answer:216
+concept: 
+source:
+status:run
+
+question_number:aime_2003_2_p5_1
+question:"A cylindrical log has diameter $12$ inches. A wedge is cut from the log by making two planar cuts that go entirely through the log. The first is perpendicular to the axis of the cylinder, and the plane of the second cut forms a $45^\circ$ angle with the plane of the first cut. The intersection of these two planes has exactly one point in common with the log. The number of cubic inches in the wedge can be expressed as $n\pi$, where n is a positive integer. If you stick two wedges together, what shape do you get. Use this relation to find $n$."
+Answer:216
+concept: 
+source:
+status:run
+
+question_number:aime_2004_1_p5
+question:"Alpha and Beta both took part in a two-day problem-solving competition. At the end of the second day, each had attempted questions worth a total of 500 points. Alpha scored 160 points out of 300 points attempted on the first day, and scored 140 points out of 200 points attempted on the second day. Beta who did not attempt 300 points on the first day, had a positive integer score on each of the two days, and Beta's daily success rate (points scored divided by points attempted) on each day was less than Alpha's on that day. Alpha's two-day success ratio was 300/500 = 3/5. The largest possible two-day success ratio that Beta could achieve is $m/n,$ where $m$ and $n$ are relatively prime positive integers. What is $m+n$?"
+Answer:849
+concept: 
+source:
+status:run
+
+question_number:aime_2004_1_p5_1
+question:"Alpha and Beta both took part in a two-day problem-solving competition. At the end of the second day, each had attempted questions worth a total of 500 points. Alpha scored 160 points out of 300 points attempted on the first day, and scored 140 points out of 200 points attempted on the second day. Beta who did not attempt 300 points on the first day, had a positive integer score on each of the two days, and Beta's daily success rate (points scored divided by points attempted) on each day was less than Alpha's on that day. Alpha's two-day success ratio was 300/500 = 3/5. The largest possible two-day success ratio that Beta could achieve is $m/n,$ where $m$ and $n$ are relatively prime positive integers. What is m + n? Find the maximum success ratio after the second day. Note that he had attempted a total of 500 points."
+Answer:849
+concept: 
+source:
+status:run
+
+question_number:aime_2004_2_p2
+question:"A jar has $10$ red candies and $10$ blue candies. Terry picks two candies at random, then Mary picks two of the remaining candies at random. Given that the probability that they get the same color combination, irrespective of order, is $m/n,$ where $m$ and $n$ are relatively prime positive integers, find $m+n.$"
+Answer:441
+concept: 
+source:
+status:run
+
+question_number:aime_2004_2_p2_1
+question:"A jar has $10$ red candies and $10$ blue candies. Terry picks two candies at random. What is the probability P1 that Terry picks two red candies? What is the probability P2 that Mary picks two red candies out of the remaining candies?"
+Answer:P1 = 9/38, P2 = 28/153
+concept: 
+source:
+status:run
+
+question_number:aime_2004_2_p2_2
+question:"A jar has $10$ red candies and $10$ blue candies. Terry picks two candies at random. What is the probability P3 that Terry picks a red and a blue candy?"
+Answer:P3 = 10/19
+concept: 
+source:
+status:run
+
+question_number:aime_2004_2_p2_3
+question:"Out of the remaining 9 red candies and 9 blue candies, what is the probability P4 that Mary picks a red and a blue candy?"
+Answer:P4 = 9/17
+concept: 
+source:
+status:run
+
+question_number:aime_2004_2_p2_4
+question:"Given P1 = 9/38, P2 = 28/153, P3 = 10/19, P4 = 9/17, calculate F = 2*P1*P2 + P3*P4. Add the numerator and denominator of F."
+Answer:441
+concept: 
+source:
+status:run
