@@ -1,0 +1,160 @@
+question_number:aime_2001_1_p1
+question:"Find the sum of all positive two-digit integers that are divisible by each of their digits."
+Answer:630
+concept: 
+source:
+status:run
+
+question_number:aime_2001_1_p2
+question:"A finite set $\mathcal{S}$ of distinct real numbers has the following properties: the mean of $\mathcal{S}\cup\{1\}$ is $13$ less than the mean of $\mathcal{S}$, and the mean of $\mathcal{S}\cup\{2001\}$ is $27$ more than the mean of $\mathcal{S}$. Find the mean of $\mathcal{S}$."
+Answer:651
+concept: 
+source:
+status:run
+
+question_number:aime_2001_1_p3
+question:"Find the sum of the roots, real and non-real, of the equation $x^{2001}+\left(\frac 12-x\right)^{2001}=0$, given that there are no multiple roots."
+Answer:500
+concept: 
+source:
+status:run
+
+question_number:aime_2001_1_p4
+question:"In triangle $ABC$, angles $A$ and $B$ measure $60$ degrees and $45$ degrees, respectively. The bisector of angle $A$ intersects $\overline{BC}$ at $T$, and $AT=24$. The area of triangle $ABC$ can be written in the form $a+b\sqrt{c}$, where $a$, $b$, and $c$ are positive integers, and $c$ is not divisible by the square of any prime. Find $a+b+c$."
+Answer:291
+concept: 
+source:
+status:run
+
+question_number:aime_2001_1_p5
+question:"An equilateral triangle is inscribed in the ellipse whose equation is $x^2+4y^2=4$. One vertex of the triangle is $(0,1)$, one altitude is contained in the y-axis, and the square of the length of each side is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:937
+concept: 
+source:
+status:run
+
+question_number:aime_2001_2_p1
+question:"Let $N$ be the largest positive integer with the following property: reading from left to right, each pair of consecutive digits of $N$ forms a perfect square. What are the leftmost three digits of $N$?"
+Answer:816
+concept: 
+source:
+status:run
+
+question_number:aime_2001_2_p2
+question:"Each of the $2001$ students at a high school studies either Spanish or French, and some study both. The number who study Spanish is between $80$ percent and $85$ percent of the school population, and the number who study French is between $30$ percent and $40$ percent. Let $m$ be the smallest number of students who could study both languages, and let $M$ be the largest number of students who could study both languages. Find $M-m$."
+Answer:298
+concept: 
+source:
+status:run
+
+question_number:aime_2001_2_p4
+question:"Let $R = (8,6)$. The lines whose equations are $8y = 15x$ and $10y = 3x$ contain points $P$ and $Q$, respectively, such that $R$ is the midpoint of $\overline{PQ}$. The length of $PQ$ equals $\frac {m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$."
+Answer:67
+concept: 
+source:
+status:run
+
+question_number:aime_2001_2_p5
+question:"A set of positive numbers has the triangle property if it has three distinct elements that are the lengths of the sides of a triangle whose area is positive. Consider sets $\{4, 5, 6, \ldots, n\}$ of consecutive positive integers, all of whose ten-element subsets have the triangle property. What is the largest possible value of $n$?"
+Answer:253
+concept: 
+source:
+status:run
+
+question_number:aime_2002_1_p1
+question:"Many states use a sequence of three letters followed by a sequence of three digits as their standard license-plate pattern. Given that each three-letter three-digit arrangement is equally likely, the probability that such a license plate will contain at least one palindrome (a three-letter arrangement or a three-digit arrangement that reads the same left-to-right as it does right-to-left) is $m/n$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:59
+concept:
+source:
+status:run
+
+question_number:aime_2002_1_p3
+question:"Jane is 25 years old. Dick is older than Jane. In $n$ years, where $n$ is a positive integer, Dick's age and Jane's age will both be two-digit numbers and will have the property that Jane's age is obtained by interchanging the digits of Dick's age. Let $d$ be Dick's present age. How many ordered pairs of positive integers $(d,n)$ are possible?"
+Answer:25
+concept:
+source:    
+status:run
+
+question_number:aime_2002_1_p4
+question:"Consider the sequence defined by $a_k =\dfrac{1}{k^2+k}$ for $k\geq 1$. Given that $a_m+a_{m+1}+\cdots+a_{n-1}=\dfrac{1}{29}$, for positive integers $m$ and $n$ with $m<n$, find $m+n$."
+Answer:840
+concept:
+source:
+status:run
+
+question_number:aime_2002_1_p5
+question:"Let $A_1,A_2,A_3,\cdots,A_{12}$ be the vertices of a regular dodecagon. How many distinct squares in the plane of the dodecagon have at least two vertices in the set $\{A_1,A_2,A_3,\cdots,A_{12}\} ?$"
+Answer:183
+concept:
+source:    
+status:run
+
+question_number:aime_2002_1_p6
+question:"The solutions to the system of equations: $\log_{225}x+\log_{64}y=4$ and $\log_{x}225-\log_{y}64=1$ are $(x_1,y_1)$ and $(x_2,y_2)$. Find $\log_{30}\left(x_1y_1x_2y_2\right)$."
+Answer:12
+concept:
+source:
+status:run
+
+question_number:aime_2002_2_p1
+question:"Given that \begin{eqnarray*}&(1)& x\text{ and }y\text{ are both integers between 100 and 999, inclusive;}\qquad \qquad \qquad \qquad \qquad \\     &(2)& y\text{ is the number formed by reversing the digits of }x\text{; and}\\     &(3)& z=|x-y|. \end{eqnarray*} How many distinct values of $z$ are possible?"
+Answer:9
+concept:
+source:
+status:run
+
+question_number:aime_2002_2_p2
+question:"Three vertices of a cube are $P=(7,12,10)$, $Q=(8,8,1)$, and $R=(11,3,9)$. What is the surface area of the cube?"
+Answer:294
+concept:
+source:    
+status:run
+
+question_number:aime_2002_2_p3
+question:"It is given that $\log_{6}a + \log_{6}b + \log_{6}c = 6,$ where $a,$ $b,$ and $c$ are positive integers that form an increasing geometric sequence and $b - a$ is the square of an integer. Find $a + b + c.$"
+Answer:111
+concept:
+source:
+status:run
+
+question_number:aime_2002_2_p5
+question:"Find the sum of all positive integers $a=2^n3^m$ where $n$ and $m$ are non-negative integers, for which $a^6$ is not a divisor of $6^a$."
+Answer:42
+concept:
+source:    
+status:run
+
+question_number:aime_2002_2_p6
+question:"Find the integer that is closest to $1000\sum_{n=3}^{10000}\frac1{n^2-4}$."
+Answer:521
+concept:
+source:
+status:run
+
+question_number:aime_2002_2_p7
+question:"It is known that, for all positive integers $k$, $1^2+2^2+3^2+\ldots+k^{2}=\frac{k(k+1)(2k+1)}6$.  Find the smallest positive integer $k$ such that $1^2+2^2+3^2+\ldots+k^2$ is a multiple of $200$."
+Answer:112
+concept:
+source:
+status:run
+
+question_number:aime_2002_2_p8
+question:"Find the least positive integer $k$ for which the equation $\left\lfloor\frac{2002}{n}\right\rfloor=k$ has no integer solutions for $n$. (The notation $\lfloor x\rfloor$ means the greatest integer less than or equal to $x$.)"
+Answer:49
+concept:
+source:
+status:run
+
+question_number:aime_2002_2_p9
+question:"Let $\mathcal{S}$ be the set $\lbrace1,2,3,\ldots,10\rbrace$ Let $n$ be the number of sets of two non-empty disjoint subsets of $\mathcal{S}$. (Disjoint sets are defined as sets that have no common elements.) Find the remainder obtained when $n$ is divided by $1000$."
+Answer:501
+concept:
+source:
+status:run
+
+question_number:aime_2002_2_p11
+question:"Two distinct, real, infinite geometric series each have a sum of $1$ and have the same second term. The third term of one of the series is $1/8$, and the second term of both series can be written in the form $\frac{\sqrt{m}-n}p$, where $m$, $n$, and $p$ are positive integers and $m$ is not divisible by the square of any prime. Find $100m+10n+p$."
+Answer:518
+concept:
+source:
+status:run
