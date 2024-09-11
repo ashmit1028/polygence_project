@@ -1,0 +1,720 @@
+problem_id:aime_2005_1_p1
+ 
+
+ChatGPT response:
+
+ The area inside the large circle but outside the six smaller circles is approximately \( \lfloor 300\pi \rfloor = 942 \). 
+
+Answer:942
+ 
+
+
+
+problem_id:aime_2005_1_p2
+ 
+
+ChatGPT response:
+
+ The number of values of \( k \) for which the sequence \( S_k \) contains the term 2005 is 12. 
+
+Answer:12
+ 
+
+
+
+problem_id:aime_2005_1_p3
+ 
+
+ChatGPT response:
+
+ There are exactly two positive integers with exactly three proper divisors each less than 50: 8 and 27. 
+
+Answer:109
+ 
+
+
+
+problem_id:aime_2005_1_p4
+ 
+
+ChatGPT response:
+
+ The maximum number of members in the band is 294. 
+
+Answer:294
+ 
+
+
+
+problem_id:aime_2005_1_p5
+ 
+
+ChatGPT response:
+
+ The total number of ways to arrange 4 indistinguishable gold coins and 4 indistinguishable silver coins in a single stack without any two adjacent coins being face to face is 560. 
+
+Answer:630
+ 
+
+
+
+problem_id:aime_2005_2_p1
+ 
+
+ChatGPT response:
+
+ The value of \(n\) that satisfies the equation is 13. 
+
+Answer:13
+ 
+
+
+
+problem_id:aime_2005_2_p2
+ 
+
+ChatGPT response:
+
+ The probability that each guest receives one of each type of roll is \( \frac{9}{70} \), and the sum of \( m \) and \( n \) is \( 79 \). 
+
+Answer:79
+ 
+
+
+
+problem_id:aime_2005_2_p3
+ 
+
+ChatGPT response:
+
+ The sum of \( m \) and \( n \) from the simplified ratio expression yields \( \boxed{7} \). 
+
+Answer:802
+ 
+
+
+
+problem_id:aime_2005_2_p4
+ 
+
+ChatGPT response:
+
+ The number of positive integers that are divisors of at least one of \(10^{10}\), \(15^7\), or \(18^{11}\) is 3036. 
+
+Answer:435
+ 
+
+
+
+problem_id:aime_2005_2_p5
+ 
+
+ChatGPT response:
+
+ The total number of ordered pairs \((a, b)\) satisfying the given equation is \(54\). 
+
+Answer:54
+ 
+
+
+
+problem_id:aime_2006_1_p1
+ 
+
+ChatGPT response:
+
+ The perimeter \(P\) of quadrilateral \(ABCD\) is \(53 + \sqrt{601}\). 
+
+Answer:84
+ 
+
+
+
+problem_id:aime_2006_1_p2
+ 
+
+ChatGPT response:
+
+ The number of possible values of the sum \( S \) for a 90-element subset \( A \) of the set \( \{1, 2, 3, \ldots, 100\} \) is 901. 
+
+Answer:901
+ 
+
+
+
+problem_id:aime_2006_1_p3
+ 
+
+ChatGPT response:
+
+ The least positive integer \( N \) that satisfies the given conditions is \( 1000000 \). 
+
+Answer:725
+ 
+
+
+
+problem_id:aime_2006_1_p4
+ 
+
+ChatGPT response:
+
+ The number of trailing zeros in the product \( P = 1! \times 2! \times 3! \times \ldots \times 100! \) is \( 24 \). 
+
+Answer:124
+ 
+
+
+
+problem_id:aime_2006_1_p5
+ 
+
+ChatGPT response:
+
+ The simplified value of the expression \( \sqrt{104\sqrt{6}+468\sqrt{10}+144\sqrt{15}+2006} \) is \( \boxed{312} \). 
+
+Answer:936
+ 
+
+
+
+problem_id:aime_2006_2_p1
+ 
+
+ChatGPT response:
+
+ The side length \( AB \) of the convex hexagon \( ABCDEF \) is \( 62 \). 
+
+Answer:46
+ 
+
+
+
+problem_id:aime_2006_2_p2
+ 
+
+ChatGPT response:
+
+ The number of possible integer values for \( n \) such that the lengths of the sides of a triangle satisfy the triangle inequalities is 893. 
+
+Answer:893
+ 
+
+
+
+problem_id:aime_2006_2_p3
+ 
+
+ChatGPT response:
+
+ The largest integer \( k \) such that the product of the first 100 positive odd integers is divisible by \( 3^k \) is 49. 
+
+Answer:49
+ 
+
+
+
+problem_id:aime_2006_2_p4
+ 
+
+ChatGPT response:
+
+ The total number of permutations \((a_1,a_2,a_3,\ldots,a_{12})\) that satisfy the conditions \(a_1 > a_2 > a_3 > a_4 > a_5 > a_6\) and \(a_6 < a_7 < a_8 < a_9 < a_{10} < a_{11} < a_{12}\) is \(924\). 
+
+Answer:462
+ 
+
+
+
+problem_id:aime_2006_2_p5
+ 
+
+ChatGPT response:
+
+ The final answer is \( \boxed{865} \). 
+
+Answer:29
+ 
+
+
+
+problem_id:aime_2007_1_p1
+ 
+
+ChatGPT response:
+
+ The number of positive perfect squares less than \(10^6\) that are multiples of \(24\) is \(83\). 
+
+Answer:83
+ 
+
+
+
+problem_id:aime_2007_1_p2
+ 
+
+ChatGPT response:
+
+ The distance from the start of the walkway to the middle person (Cy) is approximately 51.38 feet. 
+
+Answer:52
+ 
+
+
+
+problem_id:aime_2007_1_p3
+ 
+
+ChatGPT response:
+
+ The value of \( b \) is \( 27 \). 
+
+Answer:15
+ 
+
+
+
+problem_id:aime_2007_1_p4
+ 
+
+ChatGPT response:
+
+ The three planets will be collinear again in 420 years. 
+
+Answer:105
+ 
+
+
+
+problem_id:aime_2007_1_p5
+ 
+
+ChatGPT response:
+
+ The number of integer Fahrenheit temperatures between 32 and 1000 for which the original temperature equals the final temperature after conversions and rounding is 659. 
+
+Answer:539
+ 
+
+
+
+problem_id:aime_2007_2_p1
+ 
+
+ChatGPT response:
+
+ The total number of distinct sequences of five characters that can be formed using the letters 'A', 'I', 'M', 'E' and the digits '2', '0', '0', '7' is 46. 
+
+Answer:372
+ 
+
+
+
+problem_id:aime_2007_2_p2
+ 
+
+ChatGPT response:
+
+ The total number of ordered triples \((a,b,c)\) where \(a\), \(b\), and \(c\) are positive integers satisfying \(a \mid b\), \(a \mid c\), and \(a + b + c = 100\) is \(198\). 
+
+Answer:200
+ 
+
+
+
+problem_id:aime_2007_2_p3
+ 
+
+ChatGPT response:
+
+ The value of \( EF^2 \) is \( \boxed{211} \). 
+
+Answer:578
+ 
+
+
+
+problem_id:aime_2007_2_p4
+ 
+
+ChatGPT response:
+
+ The value of \( m \) for the third scenario is 75. 
+
+Answer:450
+ 
+
+
+
+problem_id:aime_2007_2_p5
+ 
+
+ChatGPT response:
+
+ The total number of \(1 \times 1\) graph paper squares that lie entirely below the line \(9x + 223y = 2007\) and within the first quadrant is \(773\). 
+
+Answer:888
+ 
+
+
+
+problem_id:aime_2008_1_p1
+ 
+
+ChatGPT response:
+
+ The total number of students at the party who like to dance is 252. 
+
+Answer:252
+ 
+
+
+
+problem_id:aime_2008_1_p2
+ 
+
+ChatGPT response:
+
+ The length of the altitude to \( EM \) in triangle \( GEM \) is \( 16 \). 
+
+Answer:25
+ 
+
+
+
+problem_id:aime_2008_1_p3
+ 
+
+ChatGPT response:
+
+ Ed's biking, jogging, and swimming rates are \( b = 14 \) km/h, \( j = 13 \) km/h, and \( s = 9 \) km/h, leading to a total of \( 446 \) when squared and summed. 
+
+Answer:314
+ 
+
+
+
+problem_id:aime_2008_1_p4
+ 
+
+ChatGPT response:
+
+ The solution to the equation \(x^2 + 84x + 2008 = y^2\) yields \(x = 18\) and \(y = 62\), resulting in \(x + y = 80\). 
+
+Answer:80
+ 
+
+
+
+problem_id:aime_2008_1_p5
+ 
+
+ChatGPT response:
+
+ The ratio \( \frac{h}{r} \) is \( 12\sqrt{2} \), leading to the final answer of \( m+n = 14 \). 
+
+Answer:14
+ 
+
+
+
+problem_id:aime_2008_2_p1
+ 
+
+ChatGPT response:
+
+ The remainder of \( N \) when divided by \( 1000 \) is \( 808 \). 
+
+Answer:100
+ 
+
+
+
+problem_id:aime_2008_2_p2
+ 
+
+ChatGPT response:
+
+ The total time taken by both Rudolph and Jennifer to complete 50 miles is 625 minutes. 
+
+Answer:620
+ 
+
+
+
+problem_id:aime_2008_2_p3
+ 
+
+ChatGPT response:
+
+ The maximum possible volume of the remaining block of cheese after cutting ten slices is \(820 \, \text{cm}^3\). 
+
+Answer:729
+ 
+
+
+
+problem_id:aime_2008_2_p4
+ 
+
+ChatGPT response:
+
+ The sum \( n_1 + n_2 + n_3 + n_4 + n_5 + n_6 \) is \( \boxed{26} \). 
+
+Answer:21
+ 
+
+
+
+problem_id:aime_2008_2_p5
+ 
+
+ChatGPT response:
+
+ The length \( MN \) in trapezoid \( ABCD \) is \( 1504 \). 
+
+Answer:504
+ 
+
+
+
+problem_id:aime_2009_1_p1
+ 
+
+ChatGPT response:
+
+ The difference between the largest and smallest 3-digit geometric numbers with distinct digits is 245. 
+
+Answer:840
+ 
+
+
+
+problem_id:aime_2009_1_p2
+ 
+
+ChatGPT response:
+
+ The value of \( n \) is \( 697 \). 
+
+Answer:697
+ 
+
+
+
+problem_id:aime_2009_1_p3
+ 
+
+ChatGPT response:
+
+ The valid probability \( p \) found in the problem is \( \frac{5}{6} \), resulting in \( m+n = 11 \). 
+
+Answer:11
+ 
+
+
+
+problem_id:aime_2009_1_p4
+ 
+
+ChatGPT response:
+
+ The final derived value of \(\frac{AC}{AP}\) is \(\boxed{59}\). 
+
+Answer:177
+ 
+
+
+
+problem_id:aime_2009_1_p5
+ 
+
+ChatGPT response:
+
+ The length \( LP \) is \( \boxed{72} \). 
+
+Answer:72
+ 
+
+
+
+problem_id:aime_2009_2_p1
+ 
+
+ChatGPT response:
+
+ The total paint remaining across all colors after Bill finishes painting is approximately 127 ounces. 
+
+Answer:114
+ 
+
+
+
+problem_id:aime_2009_2_p2
+ 
+
+ChatGPT response:
+
+ The final result of the calculations is \( \boxed{469} \). 
+
+Answer:469
+ 
+
+
+
+problem_id:aime_2009_2_p3
+ 
+
+ChatGPT response:
+
+ The greatest integer less than \( AD = h \) is \( 141 \). 
+
+Answer:141
+ 
+
+
+
+problem_id:aime_2009_2_p4
+ 
+
+ChatGPT response:
+
+ The smallest possible value of \( n \) in the grape-eating contest is \( \boxed{293} \). 
+
+Answer:89
+ 
+
+
+
+problem_id:aime_2009_2_p5
+ 
+
+ChatGPT response:
+
+ The radius of circle \( E \) that is externally tangent to circles \( B \), \( C \), and \( D \) is \( \frac{30}{7} \), and the sum \( m+n \) is \( 37 \). 
+
+Answer:32
+ 
+
+
+
+problem_id:aime_2010_1_p1
+ 
+
+ChatGPT response:
+
+ The final answer is \( \boxed{418} \). 
+
+Answer:107
+ 
+
+
+
+problem_id:aime_2010_1_p2
+ 
+
+ChatGPT response:
+
+ The remainder when \( 9 \times 99 \times 999 \times \cdots \times \underbrace{99\cdots9}_{\text{999 9's}} \) is divided by \( 1000 \) is \( \boxed{984} \). 
+
+Answer:109 (mod 1000)
+ 
+
+
+
+problem_id:aime_2010_1_p3
+ 
+
+ChatGPT response:
+
+ The final answer to the problem is \(529\). 
+
+Answer:529
+ 
+
+
+
+problem_id:aime_2010_1_p4
+ 
+
+ChatGPT response:
+
+ The probability that Jackie and Phil have the same number of heads after flipping their coins is \( \frac{123}{392} \), thus \( m + n = 515 \). 
+
+Answer:515
+ 
+
+
+
+problem_id:aime_2010_1_p5
+ 
+
+ChatGPT response:
+
+ The number of distinct integer configurations for \( a \) that satisfy the given equations is \( 62 \). 
+
+Answer:501
+ 
+
+
+
+problem_id:aime_2010_2_p1
+ 
+
+ChatGPT response:
+
+ The largest integer multiple of \(36\) with all digits even and no two digits the same is \(8640\), and the remainder when divided by \(1000\) is \(640\). 
+
+Answer:640 (mod 1000)
+ 
+
+
+
+problem_id:aime_2010_2_p2
+ 
+
+ChatGPT response:
+
+ The probability that \( \frac{1}{5} \leq d(P) \leq \frac{1}{3} \) in the unit square is \( \frac{4}{9} \), leading to \( m+n = 13 \). 
+
+Answer:281
+ 
+
+
+
+problem_id:aime_2010_2_p3
+ 
+
+ChatGPT response:
+
+ The greatest positive integer \( n \) such that \( 2^n \) divides \( K \) is \( 132 \). 
+
+Answer:150
+ 
+
+
+
+problem_id:aime_2010_2_p4
+ 
+
+ChatGPT response:
+
+ The final answer is \( m+n = 19 \). 
+
+Answer:52
+ 
+
+
+
+problem_id:aime_2010_2_p5
+ 
+
+ChatGPT response:
+
+ The value of \( \sqrt{a^2 + b^2 + c^2} \) is 75. 
+
+Answer:75
+ 
+
+
+

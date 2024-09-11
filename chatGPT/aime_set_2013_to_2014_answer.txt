@@ -1,0 +1,228 @@
+problem_id:aime_2013_1_p1
+ 
+
+ChatGPT response:
+
+ Tom spends 150 minutes bicycling. 
+
+Answer:150
+ 
+
+
+
+problem_id:aime_2013_1_p2
+ 
+
+ChatGPT response:
+
+ There are 200 five-digit positive integers \( n \) that satisfy the given conditions. 
+
+Answer:200
+ 
+
+
+
+problem_id:aime_2013_1_p3
+ 
+
+ChatGPT response:
+
+ The result of the calculation is \( \boxed{2} \). 
+
+Answer:18
+ 
+
+
+
+problem_id:aime_2013_1_p5
+ 
+
+ChatGPT response:
+
+ The final result of calculating \(a + b + c\) from the cubic equation \(8x^3 - 3x^2 - 3x - 1 = 0\) is \(4\). 
+
+Answer:98
+ 
+
+
+
+problem_id:aime_2013_1_p6
+ 
+
+ChatGPT response:
+
+ The probability that all three mathematics textbooks end up in the same box is \(\frac{7}{132}\), leading to a final answer of \(m+n=139\). 
+
+Answer:47
+ 
+
+
+
+problem_id:aime_2013_2_p1
+ 
+
+ChatGPT response:
+
+ The converted traditional time of 6:36 AM to the new metric time system is represented as 3:25, resulting in the final value of 325. 
+
+Answer:275
+ 
+
+
+
+problem_id:aime_2013_2_p2
+ 
+
+ChatGPT response:
+
+ The sum of all possible values of \(a + b\) is \(1881\). 
+
+Answer:881
+ 
+
+
+
+problem_id:aime_2013_2_p3
+ 
+
+ChatGPT response:
+
+ At \( \frac{T}{2} \) seconds, the height of the candle is 35 cm, resulting in \( 10h = 350 \). 
+
+Answer:350
+ 
+
+
+
+problem_id:aime_2013_2_p4
+ 
+
+ChatGPT response:
+
+ The final answer is \(22\). 
+
+Answer:40
+ 
+
+
+
+problem_id:aime_2013_2_p5
+ 
+
+ChatGPT response:
+
+ The solution computes \( a + b + c \) from the sine of an angle formed in an equilateral triangle, yielding \( \boxed{8} \). 
+
+Answer:20
+ 
+
+
+
+problem_id:aime_2014_1_p2
+ 
+
+ChatGPT response:
+
+ The number of blue balls \( N \) in the second urn is 144. 
+
+Answer:144
+ 
+
+
+
+problem_id:aime_2014_1_p3
+ 
+
+ChatGPT response:
+
+ The total number of rational numbers \( r = \frac{a}{b} \) in lowest terms, such that \( 0 < r < 1 \) and \( a + b = 1000 \), is 200. 
+
+Answer:200
+ 
+
+
+
+problem_id:aime_2014_1_p4
+ 
+
+ChatGPT response:
+
+ The length of each train \( L \) is \( \frac{20}{3} \) miles, leading to the sum \( m+n = 23 \). 
+
+Answer:49
+ 
+
+
+
+problem_id:aime_2014_1_p5
+ 
+
+ChatGPT response:
+
+ The total number of communal subsets of the set \( S = \{P_1, P_2, \ldots, P_{12}\} \) is 145. 
+
+Answer:134
+ 
+
+
+
+problem_id:aime_2014_2_p1
+ 
+
+ChatGPT response:
+
+ The total time taken for Abe, Bea, and Coe to finish painting the room is 414 minutes. 
+
+Answer:334 minutes
+ 
+
+
+
+problem_id:aime_2014_2_p2
+ 
+
+ChatGPT response:
+
+ The final answer is \( p + q = 24 \). 
+
+Answer:76
+ 
+
+
+
+problem_id:aime_2014_2_p3
+ 
+
+ChatGPT response:
+
+ The value of \(a^2\) is \(144\). 
+
+Answer:720
+ 
+
+
+
+problem_id:aime_2014_2_p4
+ 
+
+ChatGPT response:
+
+ The valid three-digit number is \( \boxed{379} \). 
+
+Answer:447
+ 
+
+
+
+problem_id:aime_2014_2_p5
+ 
+
+ChatGPT response:
+
+ The value of \( |b| \) is \( 80 \). 
+
+Answer:
+ 
+
+
+

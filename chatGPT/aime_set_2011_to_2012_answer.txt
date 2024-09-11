@@ -1,0 +1,240 @@
+problem_id:aime_2011_1_p1
+ 
+
+ChatGPT response:
+
+ The sum \( k + m + n = 121 \) is obtained from the values for \( k \), \( m \), and \( n \) as determined in the solution. 
+
+Answer:85
+ 
+
+
+
+problem_id:aime_2011_1_p2
+ 
+
+ChatGPT response:
+
+ The final result, obtained from the given conditions and calculations, is \(9\). 
+
+Answer:36
+ 
+
+
+
+problem_id:aime_2011_1_p3
+ 
+
+ChatGPT response:
+
+ The new coordinates of point \(P = (-14, 27)\) in the transformed coordinate system are approximately \((-3.75, -6.7083)\), and the value of \(\alpha + \beta\) is \(30\). 
+
+Answer:31
+ 
+
+
+
+problem_id:aime_2011_1_p4
+ 
+
+ChatGPT response:
+
+ The solution to the problem is that the distance \(MN\) is approximated to be \(12\). 
+
+Answer:56
+ 
+
+
+
+problem_id:aime_2011_1_p5
+ 
+
+ChatGPT response:
+
+ The number of distinguishable arrangements for labeling the vertices of a regular nonagon such that the sum of the digits at every three consecutive vertices is a multiple of 3 is 24. 
+
+Answer:144
+ 
+
+
+
+problem_id:aime_2011_2_p1
+ 
+
+ChatGPT response:
+
+ The final result is \( \boxed{41} \). 
+
+Answer:37
+ 
+
+
+
+problem_id:aime_2011_2_p2
+ 
+
+ChatGPT response:
+
+ The area of square \(ABCD\) is \(3600\). 
+
+Answer:810
+ 
+
+
+
+problem_id:aime_2011_2_p3
+ 
+
+ChatGPT response:
+
+ The smallest angle in a convex 18-sided polygon where the angles are in an increasing arithmetic sequence is 143 degrees. 
+
+Answer:143
+ 
+
+
+
+problem_id:aime_2011_2_p4
+ 
+
+ChatGPT response:
+
+ The length of side \( BC \) in triangle \( ABC \) is \( 31k \). 
+
+Answer:51
+ 
+
+
+
+problem_id:aime_2011_2_p5
+ 
+
+ChatGPT response:
+
+ The sum of the first \( 6033 \) terms of the geometric sequence is \( 542 \). 
+
+Answer:542
+ 
+
+
+
+problem_id:aime_2012_1_p1
+ 
+
+ChatGPT response:
+
+ The total number of positive integers \( abc \) such that both \( abc \) and \( cba \) are multiples of \( 4 \) is \( 60 \). 
+
+Answer:40
+ 
+
+
+
+problem_id:aime_2012_1_p2
+ 
+
+ChatGPT response:
+
+ The sum of the modified arithmetic sequence is \( \boxed{336} \). 
+
+Answer:195
+ 
+
+
+
+problem_id:aime_2012_1_p3
+ 
+
+ChatGPT response:
+
+ The total number of ways to serve the meals such that exactly one person receives the correct meal is 8640. 
+
+Answer:216
+ 
+
+
+
+problem_id:aime_2012_1_p4
+ 
+
+ChatGPT response:
+
+ The final result of \(n + t\) is 25.5. 
+
+Answer:279
+ 
+
+
+
+problem_id:aime_2012_1_p5
+ 
+
+ChatGPT response:
+
+ The total number of times the answer \( 1 \) can be obtained from the subtraction of two elements in set \( B \) is \( 792 \). 
+
+Answer:330
+ 
+
+
+
+problem_id:aime_2012_2_p1
+ 
+
+ChatGPT response:
+
+ The total number of positive integer solutions \( (m, n) \) to the equation \( 20m + 12n = 2012 \) is 34. 
+
+Answer:34
+ 
+
+
+
+problem_id:aime_2012_2_p2
+ 
+
+ChatGPT response:
+
+ The value of \( a_9 \) is 363. 
+
+Answer:363
+ 
+
+
+
+problem_id:aime_2012_2_p3
+ 
+
+ChatGPT response:
+
+ The total number of possible committees consisting of three men and three women, with two professors from each of the three departments, is 64. 
+
+Answer:88
+ 
+
+
+
+problem_id:aime_2012_2_p4
+ 
+
+ChatGPT response:
+
+ The final ratio of the lengths, leading to the total \( p + q + r \), is \( \boxed{17} \). 
+
+Answer:61
+ 
+
+
+
+problem_id:aime_2012_2_p6
+ 
+
+ChatGPT response:
+
+ The maximum distance \( |(1 + 2i)z^3 - z^5| \) is \( 125(630 + 50\sqrt{5}) \), resulting in \( c + d = 625 \). 
+
+Answer:125
+ 
+
+
+
