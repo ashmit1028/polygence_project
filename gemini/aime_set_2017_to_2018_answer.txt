@@ -1,0 +1,260 @@
+problem_id:aime_2017_1_p1
+ 
+
+Gemini response:
+
+ There are 30 triangles with positive area that can be formed using points from the three sides of a triangle with 6 points on each side. 
+ 
+
+Answer:390
+ 
+
+
+
+problem_id:aime_2017_1_p2
+ 
+
+Gemini response:
+
+ The divisors *m* and *n* are 17 and 31, respectively, and the remainders *r* and *s* are 5 and 9, resulting in a sum of 62. 
+ 
+
+Answer:62
+ 
+
+
+
+problem_id:aime_2017_1_p3
+ 
+
+Gemini response:
+
+ The sum of the units digits has the form 8098, which leaves a remainder of 898 when divided by 1000. 
+ 
+
+Answer:69
+ 
+
+
+
+problem_id:aime_2017_1_p4
+ 
+
+Gemini response:
+
+ The sum of m and n, representing the volume of the pyramid as 64√(m*n), is 545. 
+ 
+
+Answer:803
+ 
+
+
+
+problem_id:aime_2017_1_p5
+ 
+
+Gemini response:
+
+ The solution to the equation $\underline{ab} . \underline{cd}_8 = \underline{bb} . \underline{ba}_{12}$ is $\underline{abc} = 854$. 
+ 
+
+Answer:321
+ 
+
+
+
+problem_id:aime_2017_2_p1
+ 
+
+Gemini response:
+
+ There are 64 subsets of the set {1, 2, 3, 4, 5, 6, 7, 8} that are not subsets of either {1, 2, 3, 4, 5} or {4, 5, 6, 7, 8}. 
+ 
+
+Answer:196
+ 
+
+
+
+problem_id:aime_2017_2_p2
+ 
+
+Gemini response:
+
+ The probability of T4 winning the championship is 112/1575, and the sum of the numerator and denominator is 1687. 
+ 
+
+Answer:781
+ 
+
+
+
+problem_id:aime_2017_2_p3
+ 
+
+Gemini response:
+
+ The probability that a randomly chosen point inside a specific triangle is closer to one vertex than the other two is 3/20. 
+ 
+
+Answer:409
+ 
+
+
+
+problem_id:aime_2017_2_p4
+ 
+
+Gemini response:
+
+ There are 510 positive integers less than or equal to 2017 that have no zeros in their base-three representation. 
+ 
+
+Answer:222
+ 
+
+
+
+problem_id:aime_2017_2_p5
+ 
+
+Gemini response:
+
+ The greatest possible value of $x + y$ is 320. 
+ 
+
+Answer:791
+ 
+
+
+
+problem_id:aime_2018_1_p1
+ 
+
+Gemini response:
+
+ There are 5050 quadratic polynomials of the form $x^2 + ax + b$ that can be factored into linear factors with integer coefficients, and the remainder when 5050 is divided by 1000 is 50. 
+ 
+
+Answer:600
+ 
+
+
+
+problem_id:aime_2018_1_p2
+ 
+
+Gemini response:
+
+ There is no solution where the digits in the number are all greater than zero, but there may be a solution if the leading digit is zero. 
+ 
+
+Answer:925
+ 
+
+
+
+problem_id:aime_2018_1_p3
+ 
+
+Gemini response:
+
+ The probability that Kathy will be happy is 1/2520, resulting in m + n = 2521. 
+ 
+
+Answer:157
+ 
+
+
+
+problem_id:aime_2018_1_p4
+ 
+
+Gemini response:
+
+ The perimeter of triangle $ADE$ is 21. 
+ 
+
+Answer:289
+ 
+
+
+
+problem_id:aime_2018_1_p5
+ 
+
+Gemini response:
+
+ The possible values of K are 12 and -1, and their product is -12. 
+ 
+
+Answer:189
+ 
+
+
+
+problem_id:aime_2018_2_p1
+ 
+
+Gemini response:
+
+ The distance from point A to point B is greater than 900 meters. 
+ 
+
+Answer:800
+ 
+
+
+
+problem_id:aime_2018_2_p2
+ 
+
+Gemini response:
+
+ The product of the terms $a_{2018}$, $a_{2020}$, and $a_{2022}$ is 140 because the sequence has a repeating block of length 5, and the specified terms correspond to the first, third, and fifth terms of the block. 
+ 
+
+Answer:112
+ 
+
+
+
+problem_id:aime_2018_2_p3
+ 
+
+Gemini response:
+
+ The sum of all positive integers $b < 1000$ such that $36_b$ is a perfect square and $27_b$ is a perfect cube is 1. 
+ 
+
+Answer:371
+ 
+
+
+
+problem_id:aime_2018_2_p4
+ 
+
+Gemini response:
+
+ The area enclosed by the polygon CORNELIA is 3 square units. 
+ 
+
+Answer:23
+ 
+
+
+
+problem_id:aime_2018_2_p5
+ 
+
+Gemini response:
+
+ The sum of the squares of the real and imaginary parts of the complex number x + y + z is 2304. 
+ 
+
+Answer:74
+ 
+
+
+

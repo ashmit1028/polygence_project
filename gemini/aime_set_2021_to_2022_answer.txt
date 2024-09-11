@@ -1,0 +1,260 @@
+problem_id:aime_2021_1_p1
+ 
+
+Gemini response:
+
+ The probability of Zou winning exactly 5 out of 6 races is 40/243. 
+ 
+
+Answer:97
+ 
+
+
+
+problem_id:aime_2021_1_p6
+ 
+
+Gemini response:
+
+ The length of line segment $AP$ is 180. 
+ 
+
+Answer:192
+ 
+
+
+
+problem_id:aime_2021_1_p3
+ 
+
+Gemini response:
+
+ There are 991 positive integers less than 1000 that can be expressed as the difference of two integral powers of 2. 
+ 
+
+Answer:50
+ 
+
+
+
+problem_id:aime_2021_1_p4
+ 
+
+Gemini response:
+
+ There are 1139 ways to separate 66 identical coins into three nonempty piles with increasing numbers of coins in each pile. 
+ 
+
+Answer:331
+ 
+
+
+
+problem_id:aime_2021_1_p5
+ 
+
+Gemini response:
+
+ The sum of the third terms of all special sequences satisfying the given condition is 10. 
+ 
+
+Answer:31
+ 
+
+
+
+problem_id:aime_2021_2_p1
+ 
+
+Gemini response:
+
+ The arithmetic mean of all three-digit palindromes is 14.5. 
+ 
+
+Answer:550
+ 
+
+
+
+problem_id:aime_2021_2_p6
+ 
+
+Gemini response:
+
+ There are 34 ordered pairs (A,B) that satisfy the condition where the product of the sizes of A and B is equal to the product of the sizes of their intersection and union. 
+ 
+
+Answer:454
+ 
+
+
+
+problem_id:aime_2021_2_p3
+ 
+
+Gemini response:
+
+ There are 60 permutations of five numbers such that the sum of the products of every three consecutive numbers is divisible by 3. 
+ 
+
+Answer:80
+ 
+
+
+
+problem_id:aime_2021_2_p4
+ 
+
+Gemini response:
+
+ The value of $m + n$ is 19, which is found by using Vieta's formulas and equating the coefficients of $x^2$ in the two polynomials. 
+ 
+
+Answer:330
+ 
+
+
+
+problem_id:aime_2021_2_p5
+ 
+
+Gemini response:
+
+ There are no values of the area $s$ for which there exist two or more congruent triangles with sides of length 6, 14, and a third side of unknown length. 
+ 
+
+Answer:736
+ 
+
+
+
+problem_id:aime_2022_1_p1
+ 
+
+Gemini response:
+
+ The sum of the constant terms of the two quadratic polynomials is 1. 
+ 
+
+Answer:116
+ 
+
+
+
+problem_id:aime_2022_1_p2
+ 
+
+Gemini response:
+
+ The three-digit number is 113, which satisfies the given conditions when represented in both base ten and base nine. 
+ 
+
+Answer:227
+ 
+
+
+
+problem_id:aime_2022_1_p3
+ 
+
+Gemini response:
+
+ The length of segment PQ is 166.5. 
+ 
+
+Answer:242
+ 
+
+
+
+problem_id:aime_2022_1_p4
+ 
+
+Gemini response:
+
+ There are 8 pairs of positive integers (r, s) less than or equal to 100 that satisfy the equation $i \cdot w^r = z^s$, where w and z are given complex numbers. 
+ 
+
+Answer:834
+ 
+
+
+
+problem_id:aime_2022_1_p5
+ 
+
+Gemini response:
+
+ The problem statement contains an error, as the given conditions lead to a contradiction. 
+ 
+
+Answer:550
+ 
+
+
+
+problem_id:aime_2022_2_p1
+ 
+
+Gemini response:
+
+ The minimum number of adults at the concert after a bus arrived with 50 more people is 550. 
+ 
+
+Answer:154
+ 
+
+
+
+problem_id:aime_2022_2_p2
+ 
+
+Gemini response:
+
+ The probability of Carl winning the tournament is 3/16, making the sum of the numerator and denominator 19. 
+ 
+
+Answer:125
+ 
+
+
+
+problem_id:aime_2022_2_p3
+ 
+
+Gemini response:
+
+ The radius of the sphere passing through the five vertices of the pyramid is 30/11. 
+ 
+
+Answer:21
+ 
+
+
+
+problem_id:aime_2022_2_p4
+ 
+
+Gemini response:
+
+ The solution to the equation $\log_{20x} (22x) = \log_{40} (44)$ is $x=2$, and this leads to $m+n=16$. 
+ 
+
+Answer:112
+ 
+
+
+
+problem_id:aime_2022_2_p5
+ 
+
+Gemini response:
+
+ The number of triangles formed by connecting points on a circle with labels that differ by a prime number is found by counting valid combinations of three prime numbers less than 20, multiplying by 20, and dividing by 3 to account for overcounting. 
+ 
+
+Answer:72
+ 
+
+
+

@@ -1,0 +1,247 @@
+problem_id:aime_2013_1_p1
+ 
+
+Gemini response:
+
+ Tom spends approximately 108 minutes bicycling during the triathlon. 
+ 
+
+Answer:150
+ 
+
+
+
+problem_id:aime_2013_1_p2
+ 
+
+Gemini response:
+
+ There are 1809 five-digit positive integers that are divisible by 5, have the same first and last digit, and have a digit sum that is also divisible by 5. 
+ 
+
+Answer:200
+ 
+
+
+
+problem_id:aime_2013_1_p3
+ 
+
+Gemini response:
+
+ The sum of the ratios of the side lengths of the smaller squares to the larger squares is -8. 
+ 
+
+Answer:18
+ 
+
+
+
+problem_id:aime_2013_1_p5
+ 
+
+Gemini response:
+
+ The real root of the polynomial equation $8x^3-3x^2-3x-1 = 0$ can be expressed as  $\frac{\sqrt[3]1 + \sqrt[3]1 + 1}{1}$, and the sum of the coefficients in this expression is 3. 
+ 
+
+Answer:98
+ 
+
+
+
+problem_id:aime_2013_1_p6
+ 
+
+Gemini response:
+
+ The probability of all three math textbooks ending up in the same box is 1/4, and the sum of the numerator and denominator is 5. 
+ 
+
+Answer:47
+ 
+
+
+
+problem_id:aime_2013_2_p1
+ 
+
+Gemini response:
+
+ The person should set their alarm clock to 1:00 in metric time, which results in a sum of 100 when the digits are multiplied by their place values. 
+ 
+
+Answer:275
+ 
+
+
+
+problem_id:aime_2013_2_p2
+ 
+
+Gemini response:
+
+ The only solution to the given logarithmic equation is a = 3 and b = 125, resulting in a sum of 128. 
+ 
+
+Answer:881
+ 
+
+
+
+problem_id:aime_2013_2_p3
+ 
+
+Gemini response:
+
+ The height of the candle after half of its total burn time is 35 centimeters, and 10 times this height is 350. 
+ 
+
+Answer:350
+ 
+
+
+
+problem_id:aime_2013_2_p4
+ 
+
+Gemini response:
+
+ The sum of the numerator, denominator, and radical in the product of the circumcenter's coordinates is 76. 
+ 
+
+Answer:40
+ 
+
+
+
+problem_id:aime_2013_2_p5
+ 
+
+Gemini response:
+
+ The sine of angle DAE is 0 because angle DAE is 0 degrees. 
+ 
+
+Answer:20
+ 
+
+
+
+problem_id:aime_2014_1_p2
+ 
+
+Gemini response:
+
+ The value of N is 144, which is determined by setting up and solving an equation based on the probabilities of drawing balls of the same color from two urns. 
+ 
+
+Answer:144
+ 
+
+
+
+problem_id:aime_2014_1_p3
+ 
+
+Gemini response:
+
+ There are 500 rational numbers whose numerator and denominator add to 1000 and are relatively prime. 
+ 
+
+Answer:200
+ 
+
+
+
+problem_id:aime_2014_1_p4
+ 
+
+Gemini response:
+
+ The length of the train is 10/33 miles, resulting in a sum of 43 for the numerator and denominator. 
+ 
+
+Answer:49
+ 
+
+
+
+problem_id:aime_2014_1_p5
+ 
+
+Gemini response:
+
+ There are 145 communal subsets in a regular 12-gon, each formed by choosing a consecutive set of vertices. 
+ 
+
+Answer:134
+ 
+
+
+
+problem_id:aime_2014_2_p1
+ 
+
+Gemini response:
+
+ It takes 360 minutes for Abe, Bea, and Coe to paint the entire room after Abe begins. 
+ 
+
+Answer:334 minutes
+ 
+
+
+
+problem_id:aime_2014_2_p2
+ 
+
+Gemini response:
+
+ The probability of a man having none of the risk factors given that he does not have risk factor A is 4/11, and the sum of the numerator and denominator is 15. 
+ 
+
+Answer:76
+ 
+
+
+
+problem_id:aime_2014_2_p3
+ 
+
+Gemini response:
+
+ The area of a square with side length equal to the shorter side of the original rectangle is 324. 
+ 
+
+Answer:720
+ 
+
+
+
+problem_id:aime_2014_2_p4
+ 
+
+Gemini response:
+
+ The three-digit number 'abc' is 33. 
+ 
+
+Answer:447
+ 
+
+
+
+problem_id:aime_2014_2_p5
+ 
+
+Gemini response:
+
+ The sum of the minimum and maximum possible values of the absolute value of the constant term *b* is infinity. 
+ 
+
+Answer:
+ 
+
+
+

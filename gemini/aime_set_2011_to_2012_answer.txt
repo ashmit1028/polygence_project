@@ -1,0 +1,260 @@
+problem_id:aime_2011_1_p1
+ 
+
+Gemini response:
+
+ The sum of the acid concentration percentage, the volume of solution transferred from jar C to jar A, and the volume of solution transferred from jar C to jar B is 103. 
+ 
+
+Answer:85
+ 
+
+
+
+problem_id:aime_2011_1_p2
+ 
+
+Gemini response:
+
+ The length of segment EF is  $4\sqrt{5} - \frac{8}{17}$ and the sum of the digits in the simplified form of EF is 17. 
+ 
+
+Answer:
+ 
+
+
+
+problem_id:aime_2011_1_p3
+ 
+
+Gemini response:
+
+ The sum of α and β, representing the coordinates of point P in the new coordinate system, is -165/13. 
+ 
+
+Answer:
+ 
+
+
+
+problem_id:aime_2011_1_p4
+ 
+
+Gemini response:
+
+ The length of segment MN is -663/6.5. 
+ 
+
+Answer:
+ 
+
+
+
+problem_id:aime_2011_1_p5
+ 
+
+Gemini response:
+
+ There are nine distinguishable arrangements of the numbers 1 through 9 on a nonagon that satisfy the given constraints. 
+ 
+
+Answer:
+ 
+
+
+
+problem_id:aime_2011_2_p1
+ 
+
+Gemini response:
+
+ Gary drank 5/32 of the beverage initially, and when he bought half as much and drank twice as much, he wasted 2/9 of the amount wasted in the first scenario, leading to m + n = 37. 
+ 
+
+Answer:37
+ 
+
+
+
+problem_id:aime_2011_2_p2
+ 
+
+Gemini response:
+
+ The area of square ABCD is 3600 square units. 
+ 
+
+Answer:810
+ 
+
+
+
+problem_id:aime_2011_2_p3
+ 
+
+Gemini response:
+
+ The smallest angle in an 18-sided polygon where the angles form an arithmetic sequence is 143 degrees. 
+ 
+
+Answer:143
+ 
+
+
+
+problem_id:aime_2011_2_p4
+ 
+
+Gemini response:
+
+ The ratio of the lengths of line segments CP and PA is 20/31. 
+ 
+
+Answer:51
+ 
+
+
+
+problem_id:aime_2011_2_p5
+ 
+
+Gemini response:
+
+ The sum of the first 6033 terms of the geometric sequence is 580. 
+ 
+
+Answer:542
+ 
+
+
+
+problem_id:aime_2012_1_p1
+ 
+
+Gemini response:
+
+ There are 469 positive three-digit integers where both the number and its reverse are divisible by 4. 
+ 
+
+Answer:40
+ 
+
+
+
+problem_id:aime_2012_1_p2
+ 
+
+Gemini response:
+
+ The sum of the first, last, and middle terms of the original arithmetic sequence is 153. 
+ 
+
+Answer:195
+ 
+
+
+
+problem_id:aime_2012_1_p3
+ 
+
+Gemini response:
+
+ There are 9216 ways the waiter can serve the meals so that only one person receives their correct order. 
+ 
+
+Answer:216
+ 
+
+
+
+problem_id:aime_2012_1_p4
+ 
+
+Gemini response:
+
+ The problem statement contains an error, making it impossible for Butch and Sundance to meet at a milepost under the given conditions. 
+ 
+
+Answer:279
+ 
+
+
+
+problem_id:aime_2012_1_p5
+ 
+
+Gemini response:
+
+ There are 3217 pairs of binary integers in set B that differ by exactly one. 
+ 
+
+Answer:330
+ 
+
+
+
+problem_id:aime_2012_2_p1
+ 
+
+Gemini response:
+
+ The equation 20m + 12n = 2012 has 34 ordered pairs of positive integer solutions (m, n). 
+ 
+
+Answer:34
+ 
+
+
+
+problem_id:aime_2012_2_p2
+ 
+
+Gemini response:
+
+ The ninth term of the geometric sequence is 363. 
+ 
+
+Answer:363
+ 
+
+
+
+problem_id:aime_2012_2_p3
+ 
+
+Gemini response:
+
+ There are 160 possible committees that can be formed with three men, three women, and two professors from each department. 
+ 
+
+Answer:88
+ 
+
+
+
+problem_id:aime_2012_2_p4
+ 
+
+Gemini response:
+
+ The given speeds of Ana, Bob, and Cao are inconsistent, making it impossible for them to arrive at point D simultaneously. 
+ 
+
+Answer:
+ 
+
+
+
+problem_id:aime_2012_2_p6
+ 
+
+Gemini response:
+
+ The maximum distance between the complex numbers (1+2i)z³ and z⁵, where |z| = 5 and z has a positive imaginary component, is achieved when c + d = -15. 
+ 
+
+Answer:125
+ 
+
+
+

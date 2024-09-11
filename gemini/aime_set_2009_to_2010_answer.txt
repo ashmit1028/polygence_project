@@ -1,0 +1,260 @@
+problem_id:aime_2009_1_p1
+ 
+
+Gemini response:
+
+ The difference between the largest and smallest 3-digit numbers whose digits form a geometric sequence is 874. 
+ 
+
+Answer:840
+ 
+
+
+
+problem_id:aime_2009_1_p2
+ 
+
+Gemini response:
+
+ The value of $n$ that satisfies the given equation is 1. 
+ 
+
+Answer:697
+ 
+
+
+
+problem_id:aime_2009_1_p3
+ 
+
+Gemini response:
+
+ The probability of getting heads on a single toss of a coin is $\frac{5}{6}$, and the sum of the numerator and denominator of this probability is 11. 
+ 
+
+Answer:11
+ 
+
+
+
+problem_id:aime_2009_1_p4
+ 
+
+Gemini response:
+
+ The line segments AC and MN are parallel, and the ratio of AC to AP is 1. 
+ 
+
+Answer:177
+ 
+
+
+
+problem_id:aime_2009_1_p5
+ 
+
+Gemini response:
+
+ The length of line segment LP is 60. 
+ 
+
+Answer:72
+ 
+
+
+
+problem_id:aime_2009_2_p1
+ 
+
+Gemini response:
+
+ Bill had 114 ounces of paint left after using equal amounts of blue, red, and white to make stripes and pink paint. 
+ 
+
+Answer:114
+ 
+
+
+
+problem_id:aime_2009_2_p2
+ 
+
+Gemini response:
+
+ The value of the expression $a^{(\log_3 7)^2} + b^{(\log_7 11)^2} + c^{(\log_{11} 25)^2}$ is $27 + 49 + \sqrt[4]{11}$. 
+ 
+
+Answer:
+ 
+
+
+
+problem_id:aime_2009_2_p3
+ 
+
+Gemini response:
+
+ The greatest integer less than the length of side AD in the given rectangle is 99. 
+ 
+
+Answer:141
+ 
+
+
+
+problem_id:aime_2009_2_p4
+ 
+
+Gemini response:
+
+ The smallest possible number of grapes the first-place child ate is 67. 
+ 
+
+Answer:89
+ 
+
+
+
+problem_id:aime_2009_2_p5
+ 
+
+Gemini response:
+
+ The radius of circle E is 6. 
+ 
+
+Answer:32
+ 
+
+
+
+problem_id:aime_2010_1_p1
+ 
+
+Gemini response:
+
+ The probability of choosing two divisors of $2010^2$, exactly one of which is a perfect square, is $\frac{13}{162}$, and the sum of the numerator and denominator of this fraction is 175. 
+ 
+
+Answer:107
+ 
+
+
+
+problem_id:aime_2010_1_p2
+ 
+
+Gemini response:
+
+ The product of 999 consecutive integers ending in 999 leaves a remainder of 999 when divided by 1000. 
+ 
+
+Answer:109 (mod 1000)
+ 
+
+
+
+problem_id:aime_2010_1_p3
+ 
+
+Gemini response:
+
+ The solution to the equation $x^y = y^x$ with the condition $y = \frac{3}{4}x$ is $x = 0$ and $y = 0$, resulting in $x + y = 1$. 
+ 
+
+Answer:529
+ 
+
+
+
+problem_id:aime_2010_1_p4
+ 
+
+Gemini response:
+
+ The probability that Jackie and Phil flip the same number of heads is 15/196. 
+ 
+
+Answer:
+ 
+
+
+
+problem_id:aime_2010_1_p5
+ 
+
+Gemini response:
+
+ There are 11 possible values for 'a' that satisfy the given conditions. 
+ 
+
+Answer:501
+ 
+
+
+
+problem_id:aime_2010_2_p1
+ 
+
+Gemini response:
+
+ The remainder when the largest possible number formed with distinct even digits and divisible by 36 is divided by 1000 is 684. 
+ 
+
+Answer:640 (mod 1000)
+ 
+
+
+
+problem_id:aime_2010_2_p2
+ 
+
+Gemini response:
+
+ The probability of randomly selecting a point within the unit square that is at least 1/5 of a unit away from any side but no more than 1/3 of a unit away is 21/25. 
+ 
+
+Answer:281
+ 
+
+
+
+problem_id:aime_2010_2_p3
+ 
+
+Gemini response:
+
+ The greatest power of 2 that divides the product of all differences between pairs of integers from 1 to 20 is 2^69. 
+ 
+
+Answer:150
+ 
+
+
+
+problem_id:aime_2010_2_p4
+ 
+
+Gemini response:
+
+ The probability that Dave walks 400 feet or less is 3/44, resulting in a sum of 47 for the numerator and denominator. 
+ 
+
+Answer:52
+ 
+
+
+
+problem_id:aime_2010_2_p5
+ 
+
+Gemini response:
+
+ Given that xyz = 10⁸¹ and (log₁₀x)(log₁₀yz) + (log₁₀y)(log₁₀z) = 468, the value of √(log₁₀x)² + (log₁₀y)² + (log₁₀z)² is 75. 
+ 
+
+Answer:75
+ 
+
+
+
