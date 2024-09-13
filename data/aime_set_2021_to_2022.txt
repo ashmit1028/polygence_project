@@ -1,0 +1,140 @@
+question_number:aime_2021_1_p1
+question:"Zou and Chou are practicing their $100$-meter sprints by running $6$ races against each other. Zou wins the first race, and after that, the probability that one of them wins a race is $\frac23$ if they won the previous race but only $\frac13$ if they lost the previous race. The probability that Zou will win exactly $5$ of the $6$ races is $\frac mn$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:97
+concept: 
+source:
+status:run
+
+question_number:aime_2021_1_p6
+question:"Segments $\overline{AB}, \overline{AC},$ and $\overline{AD}$ are edges of a cube and $\overline{AG}$ is a diagonal through the center of the cube. Point $P$ satisfies $BP=60\sqrt{10}$, $CP=60\sqrt{5}$, $DP=120\sqrt{2}$, and $GP=36\sqrt{7}$. Find $AP.$"
+Answer:192
+concept: 
+source:
+status:run
+
+question_number:aime_2021_1_p3
+question:"Find the number of positive integers less than $1000$ that can be expressed as the difference of two integral powers of $2.$"
+Answer:50
+concept: 
+source:
+status:run
+
+question_number:aime_2021_1_p4
+question:"Find the number of ways $66$ identical coins can be separated into three nonempty piles so that there are fewer coins in the first pile than in the second pile and fewer coins in the second pile than in the third pile."
+Answer:331
+concept: 
+source:
+status:run
+
+question_number:aime_2021_1_p5
+question:"Call a three-term strictly increasing arithmetic sequence of integers special if the sum of the squares of the three terms equals the product of the middle term and the square of the common difference. Find the sum of the third terms of all special sequences."
+Answer:31
+concept: 
+source:
+status:run
+
+question_number:aime_2021_2_p1
+question:"Find the arithmetic mean of all the three-digit palindromes. (Recall that a palindrome is a number that reads the same forward and backward, such as $777$ or $383$.)"
+Answer:550
+concept: 
+source:
+status:run
+
+question_number:aime_2021_2_p6
+question:"For any finite set $S$, let $|S|$ denote the number of elements in $S$. Find the number of ordered pairs $(A,B)$ such that $A$ and $B$ are (not necessarily distinct) subsets of $\{1,2,3,4,5\}$ that satisfy\[|A| \cdot |B| = |A \cap B| \cdot |A \cup B|\]"
+Answer:454
+concept: 
+source:
+status:run
+
+question_number:aime_2021_2_p3
+question:"Find the number of permutations $x_1, x_2, x_3, x_4, x_5$ of numbers $1, 2, 3, 4, 5$ such that the sum of five products\[x_1x_2x_3 + x_2x_3x_4 + x_3x_4x_5 + x_4x_5x_1 + x_5x_1x_2\]is divisible by $3$."
+Answer:80
+concept: 
+source:
+status:run
+
+question_number:aime_2021_2_p4
+question:"There are real numbers $a, b, c,$ and $d$ such that $-20$ is a root of $x^3 + ax + b$ and $-21$ is a root of $x^3 + cx^2 + d.$ These two polynomials share a complex root $m + \sqrt{n} \cdot i,$ where $m$ and $n$ are positive integers and $i = \sqrt{-1}.$ Find $m+n.$"
+Answer:330
+concept: 
+source:
+status:run
+
+question_number:aime_2021_2_p5
+question:"For positive real numbers $s$, let $\tau(s)$ denote the set of all obtuse triangles that have area $s$ and two sides with lengths $4$ and $10$. The set of all $s$ for which $\tau(s)$ is nonempty, but all triangles in $\tau(s)$ are congruent, is an interval $[a,b)$. Find $a^2+b^2$."
+Answer:736
+concept: 
+source:
+status:run
+
+question_number:aime_2022_1_p1
+question:"Quadratic polynomials $P(x)$ and $Q(x)$ have leading coefficients $2$ and $-2,$ respectively. The graphs of both polynomials pass through the two points $(16,54)$ and $(20,53).$ Find $P(0) + Q(0).$"
+Answer:116
+concept: 
+source:
+status:run
+
+question_number:aime_2022_1_p2
+question:"Find the three-digit positive integer $\underline{a}\,\underline{b}\,\underline{c}$ whose representation in base nine is $\underline{b}\,\underline{c}\,\underline{a}_{\,\text{nine}},$ where $a,$ $b,$ and $c$ are (not necessarily distinct) digits."
+Answer:227
+concept: 
+source:
+status:run
+
+question_number:aime_2022_1_p3
+question:"In isosceles trapezoid $ABCD,$ parallel bases $\overline{AB}$ and $\overline{CD}$ have lengths $500$ and $650,$ respectively, and $AD=BC=333.$ The angle bisectors of $\angle A$ and $\angle D$ meet at $P,$ and the angle bisectors of $\angle B$ and $\angle C$ meet at $Q.$ Find $PQ.$"
+Answer:242
+concept: 
+source:
+status:run
+
+question_number:aime_2022_1_p4
+question:"Let $w = \dfrac{\sqrt{3} + i}{2}$ and $z = \dfrac{-1 + i\sqrt{3}}{2},$ where $i = \sqrt{-1}.$ Find the number of ordered pairs $(r,s)$ of positive integers not exceeding $100$ that satisfy the equation $i \cdot w^r = z^s.$"
+Answer:834
+concept: 
+source:
+status:run
+
+question_number:aime_2022_1_p5
+question:"A straight river that is $264$ meters wide flows from west to east at a rate of $14$ meters per minute. Melanie and Sherry sit on the south bank of the river with Melanie a distance of $D$ meters downstream from Sherry. Relative to the water, Melanie swims at $80$ meters per minute, and Sherry swims at $60$ meters per minute. At the same time, Melanie and Sherry begin swimming in straight lines to a point on the north bank of the river that is equidistant from their starting positions. The two women arrive at this point simultaneously. Find $D.$"
+Answer:550
+concept: 
+source:
+status:run
+
+question_number:aime_2022_2_p1
+question:"Adults made up $\frac5{12}$ of the crowd of people at a concert. After a bus carrying $50$ more people arrived, adults made up $\frac{11}{25}$ of the people at the concert. Find the minimum number of adults who could have been at the concert after the bus arrived."
+Answer:154
+concept: 
+source:
+status:run
+
+question_number:aime_2022_2_p2
+question:"Azar, Carl, Jon, and Sergey are the four players left in a singles tennis tournament. They are randomly assigned opponents in the semifinal matches, and the winners of those matches play each other in the final match to determine the winner of the tournament. When Azar plays Carl, Azar will win the match with probability $\frac23$. When either Azar or Carl plays either Jon or Sergey, Azar or Carl will win the match with probability $\frac34$. Assume that outcomes of different matches are independent. The probability that Carl will win the tournament is $\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$."
+Answer:125
+concept: 
+source:
+status:run
+
+question_number:aime_2022_2_p3
+question:"A right square pyramid with volume $54$ has a base with side length $6.$ The five vertices of the pyramid all lie on a sphere with radius $\frac mn$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:21
+concept: 
+source:
+status:run
+
+question_number:aime_2022_2_p4
+question:"There is a positive real number $x$ not equal to either $\tfrac{1}{20}$ or $\tfrac{1}{2}$ such that\[\log_{20x} (22x)=\log_{2x} (202x).\]The value $\log_{20x} (22x)$ can be written as $\log_{10} (\tfrac{m}{n})$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:112
+concept: 
+source:
+status:run
+
+question_number:aime_2022_2_p5
+question:"Twenty distinct points are marked on a circle and labeled $1$ through $20$ in clockwise order. A line segment is drawn between every pair of points whose labels differ by a prime number. Find the number of triangles formed whose vertices are among the original $20$ points."
+Answer:72
+concept: 
+source:
+status:run
+

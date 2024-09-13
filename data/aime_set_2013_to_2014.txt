@@ -1,0 +1,133 @@
+question_number:aime_2013_1_p1
+question:"The AIME Triathlon consists of a half-mile swim, a 30-mile bicycle ride, and an eight-mile run. Tom swims, bicycles, and runs at constant rates. He runs fives times as fast as he swims, and he bicycles twice as fast as he runs. Tom completes the AIME Triathlon in four and a quarter hours. How many minutes does he spend bicycling?"
+Answer:150
+concept: 
+source:
+status:run
+
+question_number:aime_2013_1_p2
+question:"Find the number of five-digit positive integers, $n$, that satisfy the following conditions: (a) the number $n$ is divisible by $5,$ (b) the first and last digits of $n$ are equal, and (c) the sum of the digits of $n$ is divisible by $5.$"
+Answer:200
+concept: 
+source:
+status:run
+
+question_number:aime_2013_1_p3
+question:"Let $ABCD$ be a square, and let $E$ and $F$ be points on $\overline{AB}$ and $\overline{BC},$ respectively. The line through $E$ parallel to $\overline{BC}$ and the line through $F$ parallel to $\overline{AB}$ divide $ABCD$ into two squares and two nonsquare rectangles. The sum of the areas of the two squares is $\frac{9}{10}$ of the area of square $ABCD.$ Find $\frac{AE}{EB} + \frac{EB}{AE}.$"
+Answer:18
+concept: 
+source:
+status:run
+
+question_number:aime_2013_1_p5
+question:"The real root of the equation $8x^3 - 3x^2 - 3x - 1 = 0$ can be written in the form $\frac{\sqrt[3]a + \sqrt[3]b + 1}{c}$, where $a$, $b$, and $c$ are positive integers. Find $a+b+c$."
+Answer:98
+concept: 
+source:
+status:run
+
+question_number:aime_2013_1_p6
+question:"Melinda has three empty boxes and $12$ textbooks, three of which are mathematics textbooks. One box will hold any three of her textbooks, one will hold any four of her textbooks, and one will hold any five of her textbooks. If Melinda packs her textbooks into these boxes in random order, the probability that all three mathematics textbooks end up in the same box can be written as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:47
+concept: 
+source:
+status:run
+
+question_number:aime_2013_2_p1
+question:"Suppose that the measurement of time during the day is converted to the metric system so that each day has $10$ metric hours, and each metric hour has $100$ metric minutes. Digital clocks would then be produced that would read $\text{9:99}$ just before midnight, $\text{0:00}$ at midnight, $\text{1:25}$ at the former $\text{3:00}$ AM, and $\text{7:50}$ at the former $\text{6:00}$ PM. After the conversion, a person who wanted to wake up at the equivalent of the former $\text{6:36}$ AM would set his new digital alarm clock for $\text{A:BC}$, where $\text{A}$, $\text{B}$, and $\text{C}$ are digits. Find $100\text{A}+10\text{B}+\text{C}$."
+Answer:275
+concept: 
+source:
+status:run
+
+question_number:aime_2013_2_p2
+question:"Positive integers $a$ and $b$ satisfy the condition\[\log_2(\log_{2^a}(\log_{2^b}(2^{1000}))) = 0.\]Find the sum of all possible values of $a+b$."
+Answer:881
+concept: 
+source:
+status:run
+
+question_number:aime_2013_2_p3
+question:"A large candle is $119$ centimeters tall. It is designed to burn down more quickly when it is first lit and more slowly as it approaches its bottom. Specifically, the candle takes $10$ seconds to burn down the first centimeter from the top, $20$ seconds to burn down the second centimeter, and $10k$ seconds to burn down the $k$-th centimeter. Suppose it takes $T$ seconds for the candle to burn down completely. Then $\tfrac{T}{2}$ seconds after it is lit, the candle's height in centimeters will be $h$. Find $10h$."
+Answer:350
+concept: 
+source:
+status:run
+
+question_number:aime_2013_2_p4
+question:"In the Cartesian plane let $A = (1,0)$ and $B = \left( 2, 2\sqrt{3} \right)$. Equilateral triangle $ABC$ is constructed so that $C$ lies in the first quadrant. Let $P=(x,y)$ be the center of $\triangle ABC$. Then $x \cdot y$ can be written as $\tfrac{p\sqrt{q}}{r}$, where $p$ and $r$ are relatively prime positive integers and $q$ is an integer that is not divisible by the square of any prime. Find $p+q+r$."
+Answer:40
+concept: 
+source:
+status:run
+
+question_number:aime_2013_2_p5
+question:"In equilateral $\triangle ABC$ let points $D$ and $E$ trisect $\overline{BC}$. Then $\sin(\angle DAE)$ can be expressed in the form $\frac{a\sqrt{b}}{c}$, where $a$ and $c$ are relatively prime positive integers, and $b$ is an integer that is not divisible by the square of any prime. Find $a+b+c$."
+Answer:20
+concept: 
+source:
+status:run
+
+question_number:aime_2014_1_p2
+question:"An urn contains $4$ green balls and $6$ blue balls. A second urn contains $16$ green balls and $N$ blue balls. A single ball is drawn at random from each urn. The probability that both balls are of the same color is $0.58$. Find $N$."
+Answer:144
+concept: 
+source:
+status:run
+
+question_number:aime_2014_1_p3
+question:"Find the number of rational numbers $r$, $0<r<1$, such that when $r$ is written as a fraction in lowest terms, the numerator and the denominator have a sum of 1000."
+Answer:200
+concept: 
+source:
+status:run
+
+question_number:aime_2014_1_p4
+question:"Jon and Steve ride their bicycles along a path that parallels two side-by-side train tracks running the east/west direction. Jon rides east at $20$ miles per hour, and Steve rides west at $20$ miles per hour. Two trains of equal length, traveling in opposite directions at constant but different speeds each pass the two riders. Each train takes exactly $1$ minute to go past Jon. The westbound train takes $10$ times as long as the eastbound train to go past Steve. The length of each train is $\tfrac{m}{n}$ miles, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:49
+concept: 
+source:
+status:run
+
+question_number:aime_2014_1_p5
+question:"Let the set $S = \{P_1, P_2, \dots, P_{12}\}$ consist of the twelve vertices of a regular $12$-gon. A subset $Q$ of $S$ is called "communal" if there is a circle such that all points of $Q$ are inside the circle, and all points of $S$ not in $Q$ are outside of the circle. How many communal subsets are there? (Note that the empty set is a communal subset.)"
+Answer:134
+concept: 
+source:
+status:run
+
+question_number:aime_2014_2_p1
+question:"Abe can paint the room in 15 hours, Bea can paint 50 percent faster than Abe, and Coe can paint twice as fast as Abe. Abe begins to paint the room and works alone for the first hour and a half. Then Bea joins Abe, and they work together until half the room is painted. Then Coe joins Abe and Bea, and they work together until the entire room is painted. Find the number of minutes after Abe begins for the three of them to finish painting the room."
+Answer:334 minutes
+concept: 
+source:
+status:run
+
+question_number:aime_2014_2_p2
+question:"Arnold is studying the prevalence of three health risk factors, denoted by A, B, and C, within a population of men. For each of the three factors, the probability that a randomly selected man in the population has only this risk factor (and none of the others) is 0.1. For any two of the three factors, the probability that a randomly selected man has exactly these two risk factors (but not the third) is 0.14. The probability that a randomly selected man has all three risk factors, given that he has A and B is $\frac{1}{3}$. The probability that a man has none of the three risk factors given that he does not have risk factor A is $\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$."
+Answer:76
+concept: 
+source:
+status:run
+
+question_number:aime_2014_2_p3
+question:"A rectangle has sides of length $a$ and 36. A hinge is installed at each vertex of the rectangle, and at the midpoint of each side of length 36. The sides of length $a$ can be pressed toward each other keeping those two sides parallel so the rectangle becomes a convex hexagon as shown. When the figure is a hexagon with the sides of length $a$ parallel and separated by a distance of 24, the hexagon has the same area as the original rectangle. Find $a^2$."
+Answer:720
+concept: 
+source:
+status:run
+
+question_number:aime_2014_2_p4
+question:"The repeating decimals $0.abab\overline{ab}$ and $0.abcabc\overline{abc}$ satisfy \[0.abab\overline{ab}+0.abcabc\overline{abc}=\frac{33}{37},\] where $a$, $b$, and $c$ are (not necessarily distinct) digits. Find the three digit number $abc$."
+Answer:447
+concept: 
+source:
+status:run
+
+question_number:aime_2014_2_p5
+question:"Real numbers $r$ and $s$ are roots of $p(x)=x^3+ax+b$, and $r+4$ and $s-3$ are roots of $q(x)=x^3+ax+b+240$. Find the sum of all possible values of $|b|$."
+Answer:
+concept: 
+source:
+status:run
+

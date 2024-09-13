@@ -1,0 +1,555 @@
+question_number:aime_2015_1_p1
+question:"The expressions $A$ = $1 \times 2 + 3 \times 4 + 5 \times 6 + \cdots + 37 \times 38 + 39$ and $B$ = $1 + 2 \times 3 + 4 \times 5 + \cdots + 36 \times 37 + 38 \times 39$ are obtained by writing multiplication and addition operators in an alternating pattern between successive integers. Find the positive difference between integers $A$ and $B$."
+Answer:722
+concept: 
+source:
+status:run
+
+question_number:aime_2015_1_p2
+question:"The nine delegates to the Economic Cooperation Conference include $2$ officials from Mexico, $3$ officials from Canada, and $4$ officials from the United States. During the opening session, three of the delegates fall asleep. Assuming that the three sleepers were determined randomly, the probability that exactly two of the sleepers are from the same country is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:139
+concept: 
+source:
+status:run
+
+question_number:aime_2015_1_p3
+question:"There is a prime number $p$ such that $16p+1$ is the cube of a positive integer. Find $p$."
+Answer:307
+concept: 
+source:
+status:run
+
+question_number:aime_2015_1_p4
+question:"Point $B$ lies on line segment $\overline{AC}$ with $AB=16$ and $BC=4$. Points $D$ and $E$ lie on the same side of line $AC$ forming equilateral triangles $\triangle ABD$ and $\triangle BCE$. Let $M$ be the midpoint of $\overline{AE}$, and $N$ be the midpoint of $\overline{CD}$. The area of $\triangle BMN$ is $x$. Find $x^2$."
+Answer:507
+concept: 
+source:
+status:run
+
+question_number:aime_2015_1_p5
+question:"In a drawer Sandy has $5$ pairs of socks, each pair a different color. On Monday Sandy selects two individual socks at random from the $10$ socks in the drawer. On Tuesday Sandy selects $2$ of the remaining $8$ socks at random and on Wednesday two of the remaining $6$ socks at random. The probability that Wednesday is the first day Sandy selects matching socks is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers, Find $m+n$."
+Answer:341
+concept: 
+source:
+status:run
+
+question_number:aime_2015_2_p1
+question:"Let $N$ be the least positive integer that is both $22$ percent less than one integer and $16$ percent greater than another integer. Find the remainder when $N$ is divided by $1000$."
+Answer:131
+concept: 
+source:
+status:run
+
+question_number:aime_2015_2_p2
+question:"In a new school $40$ percent of the students are freshmen, $30$ percent are sophomores, $20$ percent are juniors, and $10$ percent are seniors. All freshmen are required to take Latin, and $80$ percent of the sophomores, $50$ percent of the juniors, and $20$ percent of the seniors elect to take Latin. The probability that a randomly chosen Latin student is a sophomore is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:25
+concept: 
+source:
+status:run
+
+question_number:aime_2015_2_p3
+question:"Let $m$ be the least positive integer divisible by $17$ whose digits sum to $17$. Find $m$."
+Answer:476
+concept: 
+source:
+status:run
+
+question_number:aime_2015_2_p4
+question:"In an isosceles trapezoid, the parallel bases have lengths $\log 3$ and $\log 192$, and the altitude to these bases has length $\log 16$. The perimeter of the trapezoid can be written in the form $\log 2^p 3^q$, where $p$ and $q$ are positive integers. Find $p + q$."
+Answer:18
+concept: 
+source:
+status:run
+
+question_number:aime_2015_2_p5
+question:"Two unit squares are selected at random without replacement from an $n \times n$ grid of unit squares. Find the least positive integer $n$ such that the probability that the two selected unit squares are horizontally or vertically adjacent is less than $\frac{1}{2015}$."
+Answer:90
+concept: 
+source:
+status:run
+
+question_number:aime_2016_1_p1
+question:"For $-1<r<1$, let $S(r)$ denote the sum of the geometric series\[12+12r+12r^2+12r^3+\cdots .\]Let $a$ between $-1$ and $1$ satisfy $S(a)S(-a)=2016$. Find $S(a)+S(-a)$."
+Answer:336
+concept: 
+source:
+status:run
+
+question_number:aime_2016_1_p2
+question:"Two dice appear to be normal dice with their faces numbered from $1$ to $6$, but each die is weighted so that the probability of rolling the number $k$ is directly proportional to $k$. The probability of rolling a $7$ with this pair of dice is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$."
+Answer:71
+concept: 
+source:
+status:run
+
+question_number:aime_2016_1_p3
+question:"A regular icosahedron is a $20$-faced solid where each face is an equilateral triangle and five triangles meet at every vertex. The regular icosahedron shown below has one vertex at the top, one vertex at the bottom, an upper pentagon of five vertices all adjacent to the top vertex and all in the same horizontal plane, and a lower pentagon of five vertices all adjacent to the bottom vertex and all in another horizontal plane. Find the number of paths from the top vertex to the bottom vertex such that each part of a path goes downward or horizontally along an edge of the icosahedron, and no vertex is repeated."
+Answer:810
+concept: 
+source:
+status:run
+
+question_number:aime_2016_1_p4
+question:"A right prism with height $h$ has bases that are regular hexagons with sides of length $12$. A vertex $A$ of the prism and its three adjacent vertices are the vertices of a triangular pyramid. The dihedral angle (the angle between the two planes) formed by the face of the pyramid that lies in a base of the prism and the face of the pyramid that does not contain $A$ measures $60$ degrees. Find $h^2$."
+Answer:108
+concept: 
+source:
+status:run
+
+question_number:aime_2016_1_p5
+question:"Anh read a book. On the first day she read $n$ pages in $t$ minutes, where $n$ and $t$ are positive integers. On the second day Anh read $n + 1$ pages in $t + 1$ minutes. Each day thereafter Anh read one more page than she read on the previous day, and it took her one more minute than on the previous day until she completely read the $374$ page book. It took her a total of $319$ minutes to read the book. Find $n + t$."
+Answer:53
+concept: 
+source:
+status:run
+
+question_number:aime_2016_2_p1
+question:"Initially Alex, Betty, and Charlie had a total of $444$ peanuts. Charlie had the most peanuts, and Alex had the least. The three numbers of peanuts that each person had formed a geometric progression. Alex eats $5$ of his peanuts, Betty eats $9$ of her peanuts, and Charlie eats $25$ of his peanuts. Now the three numbers of peanuts each person has forms an arithmetic progression. Find the number of peanuts Alex had initially."
+Answer:108
+concept: 
+source:
+status:run
+
+question_number:aime_2016_2_p2
+question:"There is a $40\%$ chance of rain on Saturday and a $30\%$ chance of rain on Sunday. However, it is twice as likely to rain on Sunday if it rains on Saturday than if it does not rain on Saturday. The probability that it rains at least one day this weekend is $\frac{a}{b}$, where $a$ and $b$ are relatively prime positive integers. Find $a+b$."
+Answer:107
+concept: 
+source:
+status:run
+
+question_number:aime_2016_2_p3
+question:"Let $x,y,$ and $z$ be real numbers satisfying the system\begin{align*} \log_2(xyz-3+\log_5 x)&=5,\\ \log_3(xyz-3+\log_5 y)&=4,\\ \log_4(xyz-3+\log_5 z)&=4.\\ \end{align*}Find the value of $|\log_5 x|+|\log_5 y|+|\log_5 z|$."
+Answer:265
+concept: 
+source:
+status:run
+
+question_number:aime_2016_2_p4
+question:"An $a \times b \times c$ rectangular box is built from $a \cdot b \cdot c$ unit cubes. Each unit cube is colored red, green, or yellow. Each of the $a$ layers of size $1 \times b \times c$ parallel to the $(b \times c)$ faces of the box contains exactly $9$ red cubes, exactly $12$ green cubes, and some yellow cubes. Each of the $b$ layers of size $a \times 1 \times c$ parallel to the $(a \times c)$ faces of the box contains exactly $20$ green cubes, exactly $25$ yellow cubes, and some red cubes. Find the smallest possible volume of the box."
+Answer:180
+concept: 
+source:
+status:run
+
+question_number:aime_2016_2_p5
+question:"Triangle $ABC_0$ has a right angle at $C_0$. Its side lengths are pairwise relatively prime positive integers, and its perimeter is $p$. Let $C_1$ be the foot of the altitude to $\overline{AB}$, and for $n \geq 2$, let $C_n$ be the foot of the altitude to $\overline{C_{n-2}B}$ in $\triangle C_{n-2}C_{n-1}B$. The sum $\sum_{n=2}^\infty C_{n-2}C_{n-1} = 6p$. Find $p$."
+Answer:182
+concept: 
+source:
+status:run
+
+question_number:aime_2017_1_p1
+question:"Fifteen distinct points are designated on $\triangle ABC$: the 3 vertices $A$, $B$, and $C$; $3$ other points on side $\overline{AB}$; $4$ other points on side $\overline{BC}$; and $5$ other points on side $\overline{CA}$. Find the number of triangles with positive area whose vertices are among these $15$ points."
+Answer:390
+concept: 
+source:
+status:run
+
+question_number:aime_2017_1_p2
+question:"When each of $702$, $787$, and $855$ is divided by the positive integer $m$, the remainder is always the positive integer $r$. When each of $412$, $722$, and $815$ is divided by the positive integer $n$, the remainder is always the positive integer $s \neq r$. Find $m+n+r+s$."
+Answer:62
+concept: 
+source:
+status:run
+
+question_number:aime_2017_1_p3
+question:"For a positive integer $n$, let $d_n$ be the units digit of $1 + 2 + \dots + n$. Find the remainder when\[\sum_{n=1}^{2017} d_n\]is divided by $1000$."
+Answer:69
+concept: 
+source:
+status:run
+
+question_number:aime_2017_1_p4
+question:"A pyramid has a triangular base with side lengths $20$, $20$, and $24$. The three edges of the pyramid from the three corners of the base to the fourth vertex of the pyramid all have length $25$. The volume of the pyramid is $m\sqrt{n}$, where $m$ and $n$ are positive integers, and $n$ is not divisible by the square of any prime. Find $m+n$."
+Answer:803
+concept: 
+source:
+status:run
+
+question_number:aime_2017_1_p5
+question:"A rational number written in base eight is $\underline{ab} . \underline{cd}$, where all digits are nonzero. The same number in base twelve is $\underline{bb} . \underline{ba}$. Find the base-ten number $\underline{abc}$."
+Answer:321
+concept: 
+source:
+status:run
+
+question_number:aime_2017_2_p1
+question:"Find the number of subsets of $\{1, 2, 3, 4, 5, 6, 7, 8\}$ that are subsets of neither $\{1, 2, 3, 4, 5\}$ nor $\{4, 5, 6, 7, 8\}$."
+Answer:196
+concept: 
+source:
+status:run
+
+question_number:aime_2017_2_p2
+question:"The teams $T_1$, $T_2$, $T_3$, and $T_4$ are in the playoffs. In the semifinal matches, $T_1$ plays $T_4$, and $T_2$ plays $T_3$. The winners of those two matches will play each other in the final match to determine the champion. When $T_i$ plays $T_j$, the probability that $T_i$ wins is $\frac{i}{i+j}$, and the outcomes of all the matches are independent. The probability that $T_4$ will be the champion is $\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$."
+Answer:781
+concept: 
+source:
+status:run
+
+question_number:aime_2017_2_p3
+question:"A triangle has vertices $A(0,0)$, $B(12,0)$, and $C(8,10)$. The probability that a randomly chosen point inside the triangle is closer to vertex $B$ than to either vertex $A$ or vertex $C$ can be written as $\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$."
+Answer:409
+concept: 
+source:
+status:run
+
+question_number:aime_2017_2_p4
+question:"Find the number of positive integers less than or equal to $2017$ whose base-three representation contains no digit equal to $0$."
+Answer:222
+concept: 
+source:
+status:run
+
+question_number:aime_2017_2_p5
+question:"A set contains four numbers. The six pairwise sums of distinct elements of the set, in no particular order, are $189$, $320$, $287$, $234$, $x$, and $y$. Find the greatest possible value of $x+y$."
+Answer:791
+concept: 
+source:
+status:run
+
+question_number:aime_2018_1_p1
+question:"Let $S$ be the number of ordered pairs of integers $(a,b)$ with $1 \leq a \leq 100$ and $b \geq 0$ such that the polynomial $x^2+ax+b$ can be factored into the product of two (not necessarily distinct) linear factors with integer coefficients. Find the remainder when $S$ is divided by $1000$."
+Answer:600
+concept: 
+source:
+status:run
+
+question_number:aime_2018_1_p2
+question:"The number $n$ can be written in base $14$ as $\underline{a}\text{ }\underline{b}\text{ }\underline{c}$, can be written in base $15$ as $\underline{a}\text{ }\underline{c}\text{ }\underline{b}$, and can be written in base $6$ as $\underline{a}\text{ }\underline{c}\text{ }\underline{a}\text{ }\underline{c}\text{ }$, where $a > 0$. Find the base-$10$ representation of $n$."
+Answer:925
+concept: 
+source:
+status:run
+
+question_number:aime_2018_1_p3
+question:"Kathy has $5$ red cards and $5$ green cards. She shuffles the $10$ cards and lays out $5$ of the cards in a row in a random order. She will be happy if and only if all the red cards laid out are adjacent and all the green cards laid out are adjacent. For example, card orders RRGGG, GGGGR, or RRRRR will make Kathy happy, but RRRGR will not. The probability that Kathy will be happy is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$."
+Answer:157
+concept: 
+source:
+status:run
+
+question_number:aime_2018_1_p4
+question:"In $\triangle ABC, AB = AC = 10$ and $BC = 12$. Point $D$ lies strictly between $A$ and $B$ on $\overline{AB}$ and point $E$ lies strictly between $A$ and $C$ on $\overline{AC}$ so that $AD = DE = EC$. Then $AD$ can be expressed in the form $\dfrac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$."
+Answer:289
+concept: 
+source:
+status:run
+
+question_number:aime_2018_1_p5
+question:"For each ordered pair of real numbers $(x,y)$ satisfying\[\log_2(2x+y) = \log_4(x^2+xy+7y^2)\]there is a real number $K$ such that\[\log_3(3x+y) = \log_9(3x^2+4xy+Ky^2).\]Find the product of all possible values of $K$."
+Answer:189
+concept: 
+source:
+status:run
+
+question_number:aime_2018_2_p1
+question:"Points $A$, $B$, and $C$ lie in that order along a straight path where the distance from $A$ to $C$ is $1800$ meters. Ina runs twice as fast as Eve, and Paul runs twice as fast as Ina. The three runners start running at the same time with Ina starting at $A$ and running toward $C$, Paul starting at $B$ and running toward $C$, and Eve starting at $C$ and running toward $A$. When Paul meets Eve, he turns around and runs toward $A$. Paul and Ina both arrive at $B$ at the same time. Find the number of meters from $A$ to $B$."
+Answer:800
+concept: 
+source:
+status:run
+
+question_number:aime_2018_2_p2
+question:"Let $a_{0} = 2$, $a_{1} = 5$, and $a_{2} = 8$, and for $n > 2$ define $a_{n}$ recursively to be the remainder when $4$($a_{n-1}$ $+$ $a_{n-2}$ $+$ $a_{n-3}$) is divided by $11$. Find $a_{2018} \cdot a_{2020} \cdot a_{2022}$."
+Answer:112
+concept: 
+source:
+status:run
+
+question_number:aime_2018_2_p3
+question:"Find the sum of all positive integers $b < 1000$ such that the base-$b$ integer $36_{b}$ is a perfect square and the base-$b$ integer $27_{b}$ is a perfect cube."
+Answer:371
+concept: 
+source:
+status:run
+
+question_number:aime_2018_2_p4
+question:"In equiangular octagon $CAROLINE$, $CA = RO = LI = NE =$ $\sqrt{2}$ and $AR = OL = IN = EC = 1$. The self-intersecting octagon $CORNELIA$ encloses six non-overlapping triangular regions. Let $K$ be the area enclosed by $CORNELIA$, that is, the total area of the six triangular regions. Then $K =$ $\dfrac{a}{b}$, where $a$ and $b$ are relatively prime positive integers. Find $a + b$."
+Answer:23
+concept: 
+source:
+status:run
+
+question_number:aime_2018_2_p5
+question:"Suppose that $x$, $y$, and $z$ are complex numbers such that $xy = -80 - 320i$, $yz = 60$, and $zx = -96 + 24i$, where $i$ $=$ $\sqrt{-1}$. Then there are real numbers $a$ and $b$ such that $x + y + z = a + bi$. Find $a^2 + b^2$."
+Answer:74
+concept: 
+source:
+status:runquestion_number:aime_2019_1_p1
+question:"Consider the integer\[N = 9 + 99 + 999 + 9999 + \cdots + \underbrace{99\ldots 99}_\text{321 digits}.\]Find the sum of the digits of $N$."
+Answer:342
+concept: 
+source:
+status:run
+
+question_number:aime_2019_1_p2
+question:"Jenn randomly chooses a number $J$ from $1, 2, 3,\ldots, 19, 20$. Bela then randomly chooses a number $B$ from $1, 2, 3,\ldots, 19, 20$ distinct from $J$. The value of $B - J$ is at least $2$ with a probability that can be expressed in the form $\frac{m}{n}$ where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:29
+concept: 
+source:
+status:run
+
+question_number:aime_2019_1_p3
+question:"In $\triangle PQR$, $PR=15$, $QR=20$, and $PQ=25$. Points $A$ and $B$ lie on $\overline{PQ}$, points $C$ and $D$ lie on $\overline{QR}$, and points $E$ and $F$ lie on $\overline{PR}$, with $PA=QB=QC=RD=RE=PF=5$. Find the area of hexagon $ABCDEF$."
+Answer:120
+concept: 
+source:
+status:run
+
+question_number:aime_2019_1_p4
+question:"A soccer team has $22$ available players. A fixed set of $11$ players starts the game, while the other $11$ are available as substitutes. During the game, the coach may make as many as $3$ substitutions, where any one of the $11$ players in the game is replaced by one of the substitutes. No player removed from the game may reenter the game, although a substitute entering the game may be replaced later. No two substitutions can happen at the same time. The players involved and the order of the substitutions matter. Let $n$ be the number of ways the coach can make substitutions during the game (including the possibility of making no substitutions). Find the remainder when $n$ is divided by $1000$."
+Answer:122
+concept: 
+source:
+status:run
+
+question_number:aime_2019_1_p5
+question:"A moving particle starts at the point $(4,4)$ and moves until it hits one of the coordinate axes for the first time. When the particle is at the point $(a,b)$, it moves at random to one of the points $(a-1,b)$, $(a,b-1)$, or $(a-1,b-1)$, each with probability $\frac{1}{3}$, independently of its previous moves. The probability that it will hit the coordinate axes at $(0,0)$ is $\frac{m}{3^n}$, where $m$ and $n$ are positive integers such that $m$ is not divisible by $3$. Find $m + n$."
+Answer:252
+concept: 
+source:
+status:run
+
+question_number:aime_2019_2_p1
+question:"Two different points, $C$ and $D$, lie on the same side of line $AB$ so that $\triangle ABC$ and $\triangle BAD$ are congruent with $AB = 9$, $BC=AD=10$, and $CA=DB=17$. The intersection of these two triangular regions has area $\tfrac mn$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:59
+concept: 
+source:
+status:run
+
+question_number:aime_2019_2_p2
+question:"Lilypads $1,2,3,\ldots$ lie in a row on a pond. A frog makes a sequence of jumps starting on pad $1$. From any pad $k$ the frog jumps to either pad $k+1$ or pad $k+2$ chosen randomly with probability $\tfrac{1}{2}$ and independently of other jumps. The probability that the frog visits pad $7$ is $\tfrac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$."
+Answer:107
+concept: 
+source:
+status:run
+
+question_number:aime_2019_2_p3
+question:"Find the number of $7$-tuples of positive integers $(a,b,c,d,e,f,g)$ that satisfy the following systems of equations:\begin{align*} abc&=70,\\ cde&=71,\\ efg&=72. \end{align*}"
+Answer:96
+concept: 
+source:
+status:run
+
+question_number:aime_2019_2_p4
+question:"A standard six-sided fair die is rolled four times. The probability that the product of all four numbers rolled is a perfect square is $\tfrac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:187
+concept: 
+source:
+status:run
+
+question_number:aime_2019_2_p5
+question:"Four ambassadors and one advisor for each of them are to be seated at a round table with $12$ chairs numbered in order $1$ to $12$. Each ambassador must sit in an even-numbered chair. Each advisor must sit in a chair adjacent to his or her ambassador. There are $N$ ways for the $8$ people to be seated at the table under these conditions. Find the remainder when $N$ is divided by $1000$."
+Answer:520
+concept: 
+source:
+status:run
+
+question_number:aime_2020_1_p1
+question:"In $\triangle ABC$ with $AB=AC,$ point $D$ lies strictly between $A$ and $C$ on side $\overline{AC},$ and point $E$ lies strictly between $A$ and $B$ on side $\overline{AB}$ such that $AE=ED=DB=BC.$ The degree measure of $\angle ABC$ is $\tfrac{m}{n},$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$"
+Answer:547
+concept: 
+source:
+status:run
+
+question_number:aime_2020_1_p2
+question:"There is a unique positive real number $x$ such that the three numbers $\log_8{2x}$, $\log_4{x}$, and $\log_2{x}$, in that order, form a geometric progression with positive common ratio. The number $x$ can be written as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$."
+Answer:17
+concept: 
+source:
+status:run
+
+question_number:aime_2020_1_p3
+question:"A positive integer $N$ has base-eleven representation $\underline{a}\kern 0.1em\underline{b}\kern 0.1em\underline{c}$ and base-eight representation $\underline1\kern 0.1em\underline{b}\kern 0.1em\underline{c}\kern 0.1em\underline{a},$ where $a,b,$ and $c$ represent (not necessarily distinct) digits. Find the least such $N$ expressed in base ten."
+Answer:621
+concept: 
+source:
+status:run
+
+question_number:aime_2020_1_p4
+question:"Let $S$ be the set of positive integers $N$ with the property that the last four digits of $N$ are $2020,$ and when the last four digits are removed, the result is a divisor of $N.$ For example, $42,020$ is in $S$ because $4$ is a divisor of $42,020.$ Find the sum of all the digits of all the numbers in $S.$ For example, the number $42,020$ contributes $4+2+0+2+0=8$ to this total."
+Answer:93
+concept: 
+source:
+status:run
+
+question_number:aime_2020_1_p5
+question:"Six cards numbered $1$ through $6$ are to be lined up in a row. Find the number of arrangements of these six cards where one of the cards can be removed leaving the remaining five cards in either ascending or descending order."
+Answer:52
+concept: 
+source:
+status:run
+
+question_number:aime_2020_2_p1
+question:"Find the number of ordered pairs of positive integers $(m,n)$ such that ${m^2n = 20 ^{20}}$."
+Answer:231
+concept: 
+source:
+status:run
+
+question_number:aime_2020_2_p2
+question:"Let $P$ be a point chosen uniformly at random in the interior of the unit square with vertices at $(0,0), (1,0), (1,1)$, and $(0,1)$. The probability that the slope of the line determined by $P$ and the point $\left(\frac58, \frac38 \right)$ is greater than or equal to $\frac12$ can be written as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:171
+concept: 
+source:
+status:run
+
+question_number:aime_2020_2_p3
+question:"The value of $x$ that satisfies $\log_{2^x} 3^{20} = \log_{2^{x+3}} 3^{2020}$ can be written as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:103
+concept: 
+source:
+status:run
+
+question_number:aime_2020_2_p4
+question:"Triangles $\triangle ABC$ and $\triangle A'B'C'$ lie in the coordinate plane with vertices $A(0,0)$, $B(0,12)$, $C(16,0)$, $A'(24,18)$, $B'(36,18)$, $C'(24,2)$. A rotation of $m$ degrees clockwise around the point $(x,y)$ where $0<m<180$, will transform $\triangle ABC$ to $\triangle A'B'C'$. Find $m+x+y$."
+Answer:108
+concept: 
+source:
+status:run
+
+question_number:aime_2020_2_p5
+question:"For each positive integer $n$, let $f(n)$ be the sum of the digits in the base-four representation of $n$ and let $g(n)$ be the sum of the digits in the base-eight representation of $f(n)$. For example, $f(2020) = f(133210_{\text{4}}) = 10 = 12_{\text{8}}$, and $g(2020) = \text{the digit sum of }12_{\text{8}} = 3$. Let $N$ be the least value of $n$ such that the base-sixteen representation of $g(n)$ cannot be expressed using only the digits $0$ through $9$. Find the remainder when $N$ is divided by $1000$."
+Answer:151
+concept: 
+source:
+status:runquestion_number:aime_2021_1_p1
+question:"Zou and Chou are practicing their $100$-meter sprints by running $6$ races against each other. Zou wins the first race, and after that, the probability that one of them wins a race is $\frac23$ if they won the previous race but only $\frac13$ if they lost the previous race. The probability that Zou will win exactly $5$ of the $6$ races is $\frac mn$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:97
+concept: 
+source:
+status:run
+
+question_number:aime_2021_1_p6
+question:"Segments $\overline{AB}, \overline{AC},$ and $\overline{AD}$ are edges of a cube and $\overline{AG}$ is a diagonal through the center of the cube. Point $P$ satisfies $BP=60\sqrt{10}$, $CP=60\sqrt{5}$, $DP=120\sqrt{2}$, and $GP=36\sqrt{7}$. Find $AP.$"
+Answer:192
+concept: 
+source:
+status:run
+
+question_number:aime_2021_1_p3
+question:"Find the number of positive integers less than $1000$ that can be expressed as the difference of two integral powers of $2.$"
+Answer:50
+concept: 
+source:
+status:run
+
+question_number:aime_2021_1_p4
+question:"Find the number of ways $66$ identical coins can be separated into three nonempty piles so that there are fewer coins in the first pile than in the second pile and fewer coins in the second pile than in the third pile."
+Answer:331
+concept: 
+source:
+status:run
+
+question_number:aime_2021_1_p5
+question:"Call a three-term strictly increasing arithmetic sequence of integers special if the sum of the squares of the three terms equals the product of the middle term and the square of the common difference. Find the sum of the third terms of all special sequences."
+Answer:31
+concept: 
+source:
+status:run
+
+question_number:aime_2021_2_p1
+question:"Find the arithmetic mean of all the three-digit palindromes. (Recall that a palindrome is a number that reads the same forward and backward, such as $777$ or $383$.)"
+Answer:550
+concept: 
+source:
+status:run
+
+question_number:aime_2021_2_p6
+question:"For any finite set $S$, let $|S|$ denote the number of elements in $S$. Find the number of ordered pairs $(A,B)$ such that $A$ and $B$ are (not necessarily distinct) subsets of $\{1,2,3,4,5\}$ that satisfy\[|A| \cdot |B| = |A \cap B| \cdot |A \cup B|\]"
+Answer:454
+concept: 
+source:
+status:run
+
+question_number:aime_2021_2_p3
+question:"Find the number of permutations $x_1, x_2, x_3, x_4, x_5$ of numbers $1, 2, 3, 4, 5$ such that the sum of five products\[x_1x_2x_3 + x_2x_3x_4 + x_3x_4x_5 + x_4x_5x_1 + x_5x_1x_2\]is divisible by $3$."
+Answer:80
+concept: 
+source:
+status:run
+
+question_number:aime_2021_2_p4
+question:"There are real numbers $a, b, c,$ and $d$ such that $-20$ is a root of $x^3 + ax + b$ and $-21$ is a root of $x^3 + cx^2 + d.$ These two polynomials share a complex root $m + \sqrt{n} \cdot i,$ where $m$ and $n$ are positive integers and $i = \sqrt{-1}.$ Find $m+n.$"
+Answer:330
+concept: 
+source:
+status:run
+
+question_number:aime_2021_2_p5
+question:"For positive real numbers $s$, let $\tau(s)$ denote the set of all obtuse triangles that have area $s$ and two sides with lengths $4$ and $10$. The set of all $s$ for which $\tau(s)$ is nonempty, but all triangles in $\tau(s)$ are congruent, is an interval $[a,b)$. Find $a^2+b^2$."
+Answer:736
+concept: 
+source:
+status:run
+
+question_number:aime_2022_1_p1
+question:"Quadratic polynomials $P(x)$ and $Q(x)$ have leading coefficients $2$ and $-2,$ respectively. The graphs of both polynomials pass through the two points $(16,54)$ and $(20,53).$ Find $P(0) + Q(0).$"
+Answer:116
+concept: 
+source:
+status:run
+
+question_number:aime_2022_1_p2
+question:"Find the three-digit positive integer $\underline{a}\,\underline{b}\,\underline{c}$ whose representation in base nine is $\underline{b}\,\underline{c}\,\underline{a}_{\,\text{nine}},$ where $a,$ $b,$ and $c$ are (not necessarily distinct) digits."
+Answer:227
+concept: 
+source:
+status:run
+
+question_number:aime_2022_1_p3
+question:"In isosceles trapezoid $ABCD,$ parallel bases $\overline{AB}$ and $\overline{CD}$ have lengths $500$ and $650,$ respectively, and $AD=BC=333.$ The angle bisectors of $\angle A$ and $\angle D$ meet at $P,$ and the angle bisectors of $\angle B$ and $\angle C$ meet at $Q.$ Find $PQ.$"
+Answer:242
+concept: 
+source:
+status:run
+
+question_number:aime_2022_1_p4
+question:"Let $w = \dfrac{\sqrt{3} + i}{2}$ and $z = \dfrac{-1 + i\sqrt{3}}{2},$ where $i = \sqrt{-1}.$ Find the number of ordered pairs $(r,s)$ of positive integers not exceeding $100$ that satisfy the equation $i \cdot w^r = z^s.$"
+Answer:834
+concept: 
+source:
+status:run
+
+question_number:aime_2022_1_p5
+question:"A straight river that is $264$ meters wide flows from west to east at a rate of $14$ meters per minute. Melanie and Sherry sit on the south bank of the river with Melanie a distance of $D$ meters downstream from Sherry. Relative to the water, Melanie swims at $80$ meters per minute, and Sherry swims at $60$ meters per minute. At the same time, Melanie and Sherry begin swimming in straight lines to a point on the north bank of the river that is equidistant from their starting positions. The two women arrive at this point simultaneously. Find $D.$"
+Answer:550
+concept: 
+source:
+status:run
+
+question_number:aime_2022_2_p1
+question:"Adults made up $\frac5{12}$ of the crowd of people at a concert. After a bus carrying $50$ more people arrived, adults made up $\frac{11}{25}$ of the people at the concert. Find the minimum number of adults who could have been at the concert after the bus arrived."
+Answer:154
+concept: 
+source:
+status:run
+
+question_number:aime_2022_2_p2
+question:"Azar, Carl, Jon, and Sergey are the four players left in a singles tennis tournament. They are randomly assigned opponents in the semifinal matches, and the winners of those matches play each other in the final match to determine the winner of the tournament. When Azar plays Carl, Azar will win the match with probability $\frac23$. When either Azar or Carl plays either Jon or Sergey, Azar or Carl will win the match with probability $\frac34$. Assume that outcomes of different matches are independent. The probability that Carl will win the tournament is $\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. Find $p+q$."
+Answer:125
+concept: 
+source:
+status:run
+
+question_number:aime_2022_2_p3
+question:"A right square pyramid with volume $54$ has a base with side length $6.$ The five vertices of the pyramid all lie on a sphere with radius $\frac mn$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:21
+concept: 
+source:
+status:run
+
+question_number:aime_2022_2_p4
+question:"There is a positive real number $x$ not equal to either $\tfrac{1}{20}$ or $\tfrac{1}{2}$ such that\[\log_{20x} (22x)=\log_{2x} (202x).\]The value $\log_{20x} (22x)$ can be written as $\log_{10} (\tfrac{m}{n})$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:112
+concept: 
+source:
+status:run
+
+question_number:aime_2022_2_p5
+question:"Twenty distinct points are marked on a circle and labeled $1$ through $20$ in clockwise order. A line segment is drawn between every pair of points whose labels differ by a prime number. Find the number of triangles formed whose vertices are among the original $20$ points."
+Answer:72
+concept: 
+source:
+status:run

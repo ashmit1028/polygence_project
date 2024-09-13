@@ -1,0 +1,260 @@
+problem_id:aime_2005_1_p1
+ 
+
+Gemini response:
+
+ The floor of the area of the ring formed by six congruent circles inside a larger circle is 346. 
+ 
+
+Answer:942
+ 
+
+
+
+problem_id:aime_2005_1_p2
+ 
+
+Gemini response:
+
+ There are 12 arithmetic sequences with a first term of 1 that contain the number 2005. 
+ 
+
+Answer:12
+ 
+
+
+
+problem_id:aime_2005_1_p3
+ 
+
+Gemini response:
+
+ There are 23 positive integers less than 50 that have exactly three proper divisors. 
+ 
+
+Answer:109
+ 
+
+
+
+problem_id:aime_2005_1_p4
+ 
+
+Gemini response:
+
+ The given information about the marching band's formations is contradictory and leads to an impossible scenario. 
+ 
+
+Answer:294
+ 
+
+
+
+problem_id:aime_2005_1_p5
+ 
+
+Gemini response:
+
+ There are only two distinguishable arrangements of 8 coins when no two adjacent coins can have the same side facing up. 
+ 
+
+Answer:630
+ 
+
+
+
+problem_id:aime_2005_2_p1
+ 
+
+Gemini response:
+
+ The number of cards in the deck is 10. 
+ 
+
+Answer:13
+ 
+
+
+
+problem_id:aime_2005_2_p2
+ 
+
+Gemini response:
+
+ The probability that each guest receives one roll of each type is 3/20, and the sum of the numerator and denominator is 23. 
+ 
+
+Answer:79
+ 
+
+
+
+problem_id:aime_2005_2_p3
+ 
+
+Gemini response:
+
+ The sum of the first term and the denominator of the common ratio of the geometric series is 802. 
+ 
+
+Answer:802
+ 
+
+
+
+problem_id:aime_2005_2_p4
+ 
+
+Gemini response:
+
+ There are 711 positive integers that divide at least one of the numbers 10^10, 15^7, or 18^11. 
+ 
+
+Answer:435
+ 
+
+
+
+problem_id:aime_2005_2_p5
+ 
+
+Gemini response:
+
+ There are 4002 ordered pairs (a, b) that satisfy the given logarithmic equation. 
+ 
+
+Answer:54
+ 
+
+
+
+problem_id:aime_2006_1_p1
+ 
+
+Gemini response:
+
+ The perimeter of quadrilateral ABCD is  53 plus the square root of 925. 
+ 
+
+Answer:84
+ 
+
+
+
+problem_id:aime_2006_1_p2
+ 
+
+Gemini response:
+
+ There are 4901 possible different sums for all 90-element subsets chosen from the set of numbers 1 to 100. 
+ 
+
+Answer:901
+ 
+
+
+
+problem_id:aime_2006_1_p3
+ 
+
+Gemini response:
+
+ The least positive integer that is 29 times greater than the number formed by deleting its leftmost digit is **4001428**. 
+ 
+
+Answer:725
+ 
+
+
+
+problem_id:aime_2006_1_p4
+ 
+
+Gemini response:
+
+ The remainder when the product of factorials from 1! to 100! is divided by 1000 is 25. 
+ 
+
+Answer:124
+ 
+
+
+
+problem_id:aime_2006_1_p5
+ 
+
+Gemini response:
+
+ The solution involves simplifying a complex radical expression by factoring, combining like terms, and recognizing a perfect square, resulting in a final value of 24 for the product abc. 
+ 
+
+Answer:936
+ 
+
+
+
+problem_id:aime_2006_2_p1
+ 
+
+Gemini response:
+
+ The side length of the hexagon is 53. 
+ 
+
+Answer:46
+ 
+
+
+
+problem_id:aime_2006_2_p2
+ 
+
+Gemini response:
+
+ The possible values of *n* are the integers from 7 to 899, inclusive, for a total of 893 values. 
+ 
+
+Answer:893
+ 
+
+
+
+problem_id:aime_2006_2_p3
+ 
+
+Gemini response:
+
+ The largest integer *k* for which the product of the first 100 odd integers is divisible by 3*k* is 47. 
+ 
+
+Answer:49
+ 
+
+
+
+problem_id:aime_2006_2_p4
+ 
+
+Gemini response:
+
+ There are 924 permutations of 12 elements where the 6 largest elements are in decreasing order and the 6 smallest elements are in increasing order. 
+ 
+
+Answer:462
+ 
+
+
+
+problem_id:aime_2006_2_p5
+ 
+
+Gemini response:
+
+ The sum of the numerator and denominator of the probability of rolling a sum of 7 is 95. 
+ 
+
+Answer:29
+ 
+
+
+

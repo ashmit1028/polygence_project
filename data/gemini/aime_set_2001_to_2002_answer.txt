@@ -1,0 +1,286 @@
+problem_id:aime_2001_1_p1
+ 
+
+Gemini response:
+
+ The sum of all two-digit integers divisible by both their tens and units digit is 495. 
+ 
+
+Answer:630
+ 
+
+
+
+problem_id:aime_2001_1_p2
+ 
+
+Gemini response:
+
+ The problem statement contains an error because there is no finite set that satisfies the given conditions regarding the means of the set and its extensions. 
+ 
+
+Answer:651
+ 
+
+
+
+problem_id:aime_2001_1_p3
+ 
+
+Gemini response:
+
+ The sum of all the roots of the equation is 2001/4, because the roots come in pairs that each sum to 1/2. 
+ 
+
+Answer:500
+ 
+
+
+
+problem_id:aime_2001_1_p4
+ 
+
+Gemini response:
+
+ The area of triangle ABC is 384√2, making the answer 386. 
+ 
+
+Answer:291
+ 
+
+
+
+problem_id:aime_2001_1_p5
+ 
+
+Gemini response:
+
+ The side length of the equilateral triangle inscribed in the ellipse is 0, so the triangle degenerates into a single point. 
+ 
+
+Answer:937
+ 
+
+
+
+problem_id:aime_2001_2_p1
+ 
+
+Gemini response:
+
+ The largest possible three-digit number where every pair of consecutive digits forms a perfect square is 816. 
+ 
+
+Answer:816
+ 
+
+
+
+problem_id:aime_2001_2_p2
+ 
+
+Gemini response:
+
+ The difference between the maximum and minimum number of students studying both Spanish and French is -300. 
+ 
+
+Answer:298
+ 
+
+
+
+problem_id:aime_2001_2_p4
+ 
+
+Gemini response:
+
+ The sum of the numerator and denominator of the distance between points P and Q is 131. 
+ 
+
+Answer:67
+ 
+
+
+
+problem_id:aime_2001_2_p5
+ 
+
+Gemini response:
+
+ To ensure any 10-element subset of a set has the triangle property, the largest possible value of the set's largest element is 3. 
+ 
+
+Answer:253
+ 
+
+
+
+problem_id:aime_2002_1_p1
+ 
+
+Gemini response:
+
+ The probability of a license plate containing at least one palindrome is 42/55. 
+ 
+
+Answer:59
+ 
+
+
+
+problem_id:aime_2002_1_p3
+ 
+
+Gemini response:
+
+ There are eight possible combinations of Dick's current age and the number of years in the future that satisfy the given conditions. 
+ 
+
+Answer:25
+ 
+
+
+
+problem_id:aime_2002_1_p4
+ 
+
+Gemini response:
+
+ The given sequence has no positive integer solutions for *m* and *n* that satisfy the provided conditions. 
+ 
+
+Answer:840
+ 
+
+
+
+problem_id:aime_2002_1_p5
+ 
+
+Gemini response:
+
+ There are 30 distinct squares that can be formed using the vertices of a regular dodecagon. 
+ 
+
+Answer:183
+ 
+
+
+
+problem_id:aime_2002_1_p6
+ 
+
+Gemini response:
+
+ The solution to the system of equations is $(x, y) = (\frac{1}{225^2}, 4096)$ and the value of the expression $\log_{30}(x_1y_1x_2y_2)$ is $\frac{2 \log 4096 - 4 \log 225}{\log 30}$. 
+ 
+
+Answer:12
+ 
+
+
+
+problem_id:aime_2002_2_p1
+ 
+
+Gemini response:
+
+ There are **10 unique differences** possible when subtracting a three-digit number from its reverse. 
+ 
+
+Answer:9
+ 
+
+
+
+problem_id:aime_2002_2_p2
+ 
+
+Gemini response:
+
+ The surface area of the cube is 588 square units. 
+ 
+
+Answer:294
+ 
+
+
+
+problem_id:aime_2002_2_p3
+ 
+
+Gemini response:
+
+ There are no solutions to the given problem because no factors of 36, when subtracted from 36, result in a perfect square. 
+ 
+
+Answer:111
+ 
+
+
+
+problem_id:aime_2002_2_p5
+ 
+
+Gemini response:
+
+ The sum of all positive integers of the form  $a = 2^n 3^m$ for which $a^6$ is not a divisor of $6^a$ is infinite. 
+ 
+
+Answer:42
+ 
+
+
+
+problem_id:aime_2002_2_p6
+ 
+
+Gemini response:
+
+ The sum of the series $\frac{1}{n^2-4}$ from n=3 to 10000, multiplied by 1000, is approximately 375. 
+ 
+
+Answer:521
+ 
+
+
+
+problem_id:aime_2002_2_p7
+ 
+
+Gemini response:
+
+ The smallest integer $k$ for which $\frac{k(k+1)(2k+1)}{6}$ is divisible by 200 is $k=4$. 
+ 
+
+Answer:112
+ 
+
+
+
+problem_id:aime_2002_2_p8
+ 
+
+Gemini response:
+
+ The smallest positive integer *k* for which the equation ⌊2002/n⌋ = *k* has no integer solutions for *n* is **45**. 
+ 
+
+Answer:49
+ 
+
+
+
+problem_id:aime_2002_2_p9
+ 
+
+Gemini response:
+
+ The remainder obtained when *n* is divided by 1000 is 22. 
+ 
+
+Answer:501
+ 
+
+
+

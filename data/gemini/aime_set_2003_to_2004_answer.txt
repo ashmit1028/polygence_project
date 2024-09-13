@@ -1,0 +1,247 @@
+problem_id:aime_2003_1_p1
+ 
+
+Gemini response:
+
+ The solution to the equation (3!)! / 6 = k * n! is k + n = 839. 
+ 
+
+Answer:839
+ 
+
+
+
+problem_id:aime_2003_1_p2
+ 
+
+Gemini response:
+
+ The ratio of the total area of the green regions to the area of the circle of radius 100 is 101/200. 
+ 
+
+Answer:301
+ 
+
+
+
+problem_id:aime_2003_1_p3
+ 
+
+Gemini response:
+
+ The sum of the larger numbers in all possible pairs from the set {8, 5, 1, 13, 34, 3, 21, 2} is 506. 
+ 
+
+Answer:484
+ 
+
+
+
+problem_id:aime_2003_1_p4
+ 
+
+Gemini response:
+
+ The value of *n* that satisfies the given logarithmic equations is 12. 
+ 
+
+Answer:12
+ 
+
+
+
+problem_id:aime_2003_1_p6
+ 
+
+Gemini response:
+
+ There are 24 triangles that can be formed on a cube, with a total area of 24. 
+ 
+
+Answer:348
+ 
+
+
+
+problem_id:aime_2003_2_p1
+ 
+
+Gemini response:
+
+ The sum of all possible products of the three positive integers is 336. 
+ 
+
+Answer:336
+ 
+
+
+
+problem_id:aime_2003_2_p2
+ 
+
+Gemini response:
+
+ The largest number divisible by 8 with no repeated digits, when divided by 1000, has a remainder of 0. 
+ 
+
+Answer:120
+ 
+
+
+
+problem_id:aime_2003_2_p3
+ 
+
+Gemini response:
+
+ There are 384 possible seven-letter good words that can be formed using the given constraints. 
+ 
+
+Answer:192
+ 
+
+
+
+problem_id:aime_2003_2_p4
+ 
+
+Gemini response:
+
+ The ratio of the volume of the smaller tetrahedron to the larger tetrahedron is 2/27. 
+ 
+
+Answer:28
+ 
+
+
+
+problem_id:aime_2003_2_p5
+ 
+
+Gemini response:
+
+ The volume of the wedge cut from the log is $216\pi$ cubic inches. 
+ 
+
+Answer:216
+ 
+
+
+
+problem_id:aime_2004_1_p1
+ 
+
+Gemini response:
+
+ The sum of the possible remainders when an integer formed by four consecutive digits is divided by 37 is 82. 
+ 
+
+Answer:217
+ 
+
+
+
+problem_id:aime_2004_1_p2
+ 
+
+Gemini response:
+
+ The value of $m$ is 100, determined by equating the absolute difference of the greatest elements of sets A and B to 99. 
+ 
+
+Answer:201
+ 
+
+
+
+problem_id:aime_2004_1_p3
+ 
+
+Gemini response:
+
+ There are 241 space diagonals in polyhedron P, calculated by subtracting the number of edges and face diagonals from the total possible line segments formed by its vertices. 
+ 
+
+Answer:241
+ 
+
+
+
+problem_id:aime_2004_1_p5
+ 
+
+Gemini response:
+
+ The sum of the numerator and denominator of Beta's maximum success ratio, simplified to its lowest terms, is 399. 
+ 
+
+Answer:849
+ 
+
+
+
+problem_id:aime_2004_1_p6
+ 
+
+Gemini response:
+
+ There are 54 snakelike integers between 1000 and 9999 with four distinct digits. 
+ 
+
+Answer:882
+ 
+
+
+
+problem_id:aime_2004_2_p2
+ 
+
+Gemini response:
+
+ The probability that Terry and Mary get the same color combination of candies is 28/255, and the sum of the numerator and denominator is 283. 
+ 
+
+Answer:441
+ 
+
+
+
+problem_id:aime_2004_2_p3
+ 
+
+Gemini response:
+
+ The smallest possible value of N, representing the total number of cubes in a rectangular block with 231 hidden cubes, is 462. 
+ 
+
+Answer:384
+ 
+
+
+
+problem_id:aime_2004_2_p4
+ 
+
+Gemini response:
+
+ There are 511 positive integers less than 10,000 that have at most two different digits. 
+ 
+
+Answer:927
+ 
+
+
+
+problem_id:aime_2004_2_p5
+ 
+
+Gemini response:
+
+ To complete the last quarter on schedule, 200 additional workers are needed. 
+ 
+
+Answer:766
+ 
+
+
+

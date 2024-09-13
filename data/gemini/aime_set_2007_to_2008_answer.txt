@@ -1,0 +1,260 @@
+problem_id:aime_2007_1_p1
+ 
+
+Gemini response:
+
+ There are 219 positive perfect squares less than 1,000,000 that are multiples of 24. 
+ 
+
+Answer:83
+ 
+
+
+
+problem_id:aime_2007_1_p2
+ 
+
+Gemini response:
+
+ The distance between the start of the walkway and the middle person is either 36 feet or 32 feet, depending on who is in the middle. 
+ 
+
+Answer:52
+ 
+
+
+
+problem_id:aime_2007_1_p3
+ 
+
+Gemini response:
+
+ The value of b is 9, as it is the positive solution to the quadratic equation resulting from equating the imaginary parts of z² and z³. 
+ 
+
+Answer:15
+ 
+
+
+
+problem_id:aime_2007_1_p4
+ 
+
+Gemini response:
+
+ The planets and star will be collinear again in 840 years. 
+ 
+
+Answer:105
+ 
+
+
+
+problem_id:aime_2007_1_p5
+ 
+
+Gemini response:
+
+ There are 969 Fahrenheit temperatures between 32 and 1000 that remain the same when converted to Celsius and then back to Fahrenheit after rounding to the nearest integer. 
+ 
+
+Answer:539
+ 
+
+
+
+problem_id:aime_2007_2_p1
+ 
+
+Gemini response:
+
+ There are 144 ways to arrange the letters A, I, M, and E and the digits 2, 0, 0, and 7 on a plate. 
+ 
+
+Answer:372
+ 
+
+
+
+problem_id:aime_2007_2_p2
+ 
+
+Gemini response:
+
+ There are 199 ordered triples of positive integers (a, b, c) that satisfy the given conditions, where 'a' divides both 'b' and 'c' and their sum equals 100. 
+ 
+
+Answer:200
+ 
+
+
+
+problem_id:aime_2007_2_p3
+ 
+
+Gemini response:
+
+ The length of $EF$ is the square root of 288, which can be simplified to $12\sqrt{2}$. 
+ 
+
+Answer:578
+ 
+
+
+
+problem_id:aime_2007_2_p4
+ 
+
+Gemini response:
+
+ Assuming a typo in the second scenario, 50 workers can produce 250 whoosits in 3 hours. 
+ 
+
+Answer:450
+ 
+
+
+
+problem_id:aime_2007_2_p5
+ 
+
+Gemini response:
+
+ There are 230 squares with interiors entirely below the line 9x + 223y = 2007 in the first quadrant. 
+ 
+
+Answer:888
+ 
+
+
+
+problem_id:aime_2008_1_p1
+ 
+
+Gemini response:
+
+ There are now 252 students at the party who like to dance. 
+ 
+
+Answer:252
+ 
+
+
+
+problem_id:aime_2008_1_p2
+ 
+
+Gemini response:
+
+ The altitude from point $G$ to base $EM$ in triangle $GEM$ is 16 units long. 
+ 
+
+Answer:25
+ 
+
+
+
+problem_id:aime_2008_1_p3
+ 
+
+Gemini response:
+
+ The sum of the squares of Ed's biking, jogging, and swimming rates is 608. 
+ 
+
+Answer:314
+ 
+
+
+
+problem_id:aime_2008_1_p4
+ 
+
+Gemini response:
+
+ The unique positive integer solutions for *x* and *y* in the equation are *x = 11* and *y = 15*, resulting in *x + y = 26*. 
+ 
+
+Answer:80
+ 
+
+
+
+problem_id:aime_2008_1_p5
+ 
+
+Gemini response:
+
+ The ratio of the height of the cone to the radius of the cone is  (2π - 17)/17. 
+ 
+
+Answer:14
+ 
+
+
+
+problem_id:aime_2008_2_p1
+ 
+
+Gemini response:
+
+ The remainder when N is divided by 1000 is 148. 
+ 
+
+Answer:100
+ 
+
+
+
+problem_id:aime_2008_2_p2
+ 
+
+Gemini response:
+
+ It takes Rudolph 700 minutes to reach the 50-mile mark. 
+ 
+
+Answer:620
+ 
+
+
+
+problem_id:aime_2008_2_p3
+ 
+
+Gemini response:
+
+ Cutting ten slices parallel to the 10 cm by 13 cm face of the cheese block completely removes all of the cheese. 
+ 
+
+Answer:729
+ 
+
+
+
+problem_id:aime_2008_2_p4
+ 
+
+Gemini response:
+
+ The sum of the exponents in the base 3 representation of 2008 is 21. 
+ 
+
+Answer:21
+ 
+
+
+
+problem_id:aime_2008_2_p5
+ 
+
+Gemini response:
+
+ The length of line segment MN, the midline of the trapezoid, is 1504. 
+ 
+
+Answer:504
+ 
+
+
+

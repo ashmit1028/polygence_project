@@ -1,0 +1,260 @@
+problem_id:aime_2019_1_p1
+ 
+
+Gemini response:
+
+ The sum of the digits of the given number is 2889. 
+ 
+
+Answer:342
+ 
+
+
+
+problem_id:aime_2019_1_p2
+ 
+
+Gemini response:
+
+ The probability that Bela's number is at least 2 greater than Jenn's number is 171/190, and the sum of the numerator and denominator is 361. 
+ 
+
+Answer:29
+ 
+
+
+
+problem_id:aime_2019_1_p3
+ 
+
+Gemini response:
+
+ The area of hexagon ABCDEF is 20 square units. 
+ 
+
+Answer:120
+ 
+
+
+
+problem_id:aime_2019_1_p4
+ 
+
+Gemini response:
+
+ The remainder when the number of ways to make substitutions in a soccer game is divided by 1000 is 522. 
+ 
+
+Answer:122
+ 
+
+
+
+problem_id:aime_2019_1_p5
+ 
+
+Gemini response:
+
+ The probability of a particle starting at (4,4) and reaching (0,0) is calculated by considering all possible paths and their respective probabilities, resulting in a final probability of 1009/19683. 
+ 
+
+Answer:252
+ 
+
+
+
+problem_id:aime_2019_2_p1
+ 
+
+Gemini response:
+
+ The area of the intersection of the two triangular regions is 45. 
+ 
+
+Answer:59
+ 
+
+
+
+problem_id:aime_2019_2_p2
+ 
+
+Gemini response:
+
+ The probability of the frog reaching lilypad 7 is 11/64. 
+ 
+
+Answer:107
+ 
+
+
+
+problem_id:aime_2019_2_p3
+ 
+
+Gemini response:
+
+ There are 864 possible 7-tuples that satisfy the given system of equations. 
+ 
+
+Answer:96
+ 
+
+
+
+problem_id:aime_2019_2_p4
+ 
+
+Gemini response:
+
+ The probability that the product of four dice rolls is a perfect square is 5/81. 
+ 
+
+Answer:187
+ 
+
+
+
+problem_id:aime_2019_2_p5
+ 
+
+Gemini response:
+
+ The remainder when the total number of possible seating arrangements is divided by 1000 is 760. 
+ 
+
+Answer:520
+ 
+
+
+
+problem_id:aime_2020_1_p1
+ 
+
+Gemini response:
+
+ The sum of angles m and n in triangle ABC is 46 degrees. 
+ 
+
+Answer:547
+ 
+
+
+
+problem_id:aime_2020_1_p2
+ 
+
+Gemini response:
+
+ The solution to the problem, where $\log_8{2x}$, $\log_4{x}$, and $\log_2{x}$ form a geometric progression, is  $x = \sqrt{2}$, resulting in $m + n = \sqrt{2} + 2$. 
+ 
+
+Answer:17
+ 
+
+
+
+problem_id:aime_2020_1_p3
+ 
+
+Gemini response:
+
+ The least value of N that satisfies the given conditions is 639. 
+ 
+
+Answer:621
+ 
+
+
+
+problem_id:aime_2020_1_p4
+ 
+
+Gemini response:
+
+ The sum of the digits of all the numbers in set $S$ that are divisible by their hundreds digit is 66. 
+ 
+
+Answer:93
+ 
+
+
+
+problem_id:aime_2020_1_p5
+ 
+
+Gemini response:
+
+ There are six arrangements of six cards where removing any single card results in either an increasing or decreasing sequence of the remaining cards. 
+ 
+
+Answer:52
+ 
+
+
+
+problem_id:aime_2020_2_p1
+ 
+
+Gemini response:
+
+ There are 231 ordered pairs of positive integers (m, n) that satisfy the equation m² * n = 20²⁰. 
+ 
+
+Answer:231
+ 
+
+
+
+problem_id:aime_2020_2_p2
+ 
+
+Gemini response:
+
+ The probability that a randomly chosen point inside a unit square will form a line with a slope of at least 1/2 when connected to the point (5/8, 3/8) is 7/8. 
+ 
+
+Answer:171
+ 
+
+
+
+problem_id:aime_2020_2_p3
+ 
+
+Gemini response:
+
+ The solution involves applying the change of base formula and logarithm of a power property to solve for x, resulting in m + n = 103. 
+ 
+
+Answer:103
+ 
+
+
+
+problem_id:aime_2020_2_p4
+ 
+
+Gemini response:
+
+ The center of rotation is (12, 9) and the angle of rotation is 90 degrees, resulting in a sum of m + x + y = 111. 
+ 
+
+Answer:108
+ 
+
+
+
+problem_id:aime_2020_2_p5
+ 
+
+Gemini response:
+
+ The least value of *n* for which the base-sixteen representation of *g(n)* requires a digit beyond 9 is 193. 
+ 
+
+Answer:151
+ 
+
+
+

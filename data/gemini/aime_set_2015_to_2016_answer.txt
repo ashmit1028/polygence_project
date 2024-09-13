@@ -1,0 +1,260 @@
+problem_id:aime_2015_1_p1
+ 
+
+Gemini response:
+
+ The positive difference between Expression A and Expression B is 40 because Expression B is simply Expression A shifted one term forward. 
+ 
+
+Answer:722
+ 
+
+
+
+problem_id:aime_2015_1_p2
+ 
+
+Gemini response:
+
+ The probability that exactly two of the three sleepers are from the same country is 17/84. 
+ 
+
+Answer:139
+ 
+
+
+
+problem_id:aime_2015_1_p3
+ 
+
+Gemini response:
+
+ There is no prime number *p* that, when multiplied by 16 and added to 1, results in a perfect cube. 
+ 
+
+Answer:307
+ 
+
+
+
+problem_id:aime_2015_1_p4
+ 
+
+Gemini response:
+
+ The area of triangle $BMN$ is 20, so $x^2 = 400$. 
+ 
+
+Answer:507
+ 
+
+
+
+problem_id:aime_2015_1_p5
+ 
+
+Gemini response:
+
+ The probability that Sandy gets a matching pair of socks on Wednesday after not getting a matching pair on Monday or Tuesday is $\frac{16}{21}$, making $m + n = 37$. 
+ 
+
+Answer:341
+ 
+
+
+
+problem_id:aime_2015_2_p1
+ 
+
+Gemini response:
+
+ The remainder when the smallest possible integer value of  N, which is 16% greater than one integer and 22% less than another, is divided by 1000 is 46. 
+ 
+
+Answer:131
+ 
+
+
+
+problem_id:aime_2015_2_p2
+ 
+
+Gemini response:
+
+ The sum of m and n, representing the numerator and denominator of the probability that a randomly chosen Latin student is a sophomore, is 25. 
+ 
+
+Answer:25
+ 
+
+
+
+problem_id:aime_2015_2_p3
+ 
+
+Gemini response:
+
+ The smallest multiple of 17 whose digits add up to 17 is 944. 
+ 
+
+Answer:476
+ 
+
+
+
+problem_id:aime_2015_2_p4
+ 
+
+Gemini response:
+
+ The perimeter of the isosceles trapezoid is  $\log 2^{16} 3^2$, and the sum of the exponents,  p + q, is 18. 
+ 
+
+Answer:18
+ 
+
+
+
+problem_id:aime_2015_2_p5
+ 
+
+Gemini response:
+
+ The least positive integer value of *n* for which the probability of choosing two adjacent squares from an *n* by *n* grid is less than 1/2015 is 2. 
+ 
+
+Answer:90
+ 
+
+
+
+problem_id:aime_2016_1_p1
+ 
+
+Gemini response:
+
+ The sum of S(a) and S(-a) is (168 + 24√14) / (√14 + 1). 
+ 
+
+Answer:336
+ 
+
+
+
+problem_id:aime_2016_1_p2
+ 
+
+Gemini response:
+
+ The sum of m and n, where the probability of rolling a 7 with two dice is expressed as m/n, is 497. 
+ 
+
+Answer:71
+ 
+
+
+
+problem_id:aime_2016_1_p3
+ 
+
+Gemini response:
+
+ There are 80 distinct paths from the top vertex to the bottom vertex of an icosahedron. 
+ 
+
+Answer:810
+ 
+
+
+
+problem_id:aime_2016_1_p4
+ 
+
+Gemini response:
+
+ The square of the height of the prism is 12. 
+ 
+
+Answer:108
+ 
+
+
+
+problem_id:aime_2016_1_p5
+ 
+
+Gemini response:
+
+ Anh read the book in 11 days, reading 32 pages on the first day and spending 27 minutes on the first day, making the sum of the first day's pages and minutes 59. 
+ 
+
+Answer:53
+ 
+
+
+
+problem_id:aime_2016_2_p1
+ 
+
+Gemini response:
+
+ The problem has no solution because the calculated initial number of peanuts Alex had is negative. 
+ 
+
+Answer:108
+ 
+
+
+
+problem_id:aime_2016_2_p2
+ 
+
+Gemini response:
+
+ The probability of rain on Saturday or Sunday is 17/30, resulting in a sum of 47 for the numerator and denominator. 
+ 
+
+Answer:107
+ 
+
+
+
+problem_id:aime_2016_2_p3
+ 
+
+Gemini response:
+
+ The solution involves simplifying the given equations, isolating logarithmic terms, solving for xyz, and finally calculating the sum of the absolute values of the logarithms. 
+ 
+
+Answer:265
+ 
+
+
+
+problem_id:aime_2016_2_p4
+ 
+
+Gemini response:
+
+ The smallest possible volume of the box is 420 cubic units, achieved by minimizing the dimensions of the box while ensuring the number of red, green, and yellow cubes in each layer is a whole number. 
+ 
+
+Answer:180
+ 
+
+
+
+problem_id:aime_2016_2_p5
+ 
+
+Gemini response:
+
+ There is no right triangle with a perimeter of $p$ and relatively prime side lengths that satisfies the given condition, where the sum of the lengths of the infinite sequence of nested right triangles is $6p$. 
+ 
+
+Answer:182
+ 
+
+
+

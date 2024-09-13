@@ -1,0 +1,140 @@
+question_number:aime_2011_1_p1
+question:"Jar $A$ contains four liters of a solution that is $45\%$ acid. Jar $B$ contains five liters of a solution that is $48\%$ acid. Jar $C$ contains one liter of a solution that is $k\%$ acid. From jar $C$, $\frac{m}{n}$ liters of the solution is added to jar $A$, and the remainder of the solution in jar $C$ is added to jar B. At the end both jar $A$ and jar $B$ contain solutions that are $50\%$ acid. Given that $m$ and $n$ are relatively prime positive integers, find $k + m + n$."
+Answer:85
+concept: 
+source:
+status:run
+
+question_number:aime_2011_1_p2
+question:"In rectangle $ABCD$, $AB = 12$ and $BC = 10$. Points $E$ and $F$ lie inside rectangle $ABCD$ so that $BE = 9$, $DF = 8$, $\overline{BE} \parallel \overline{DF}$, $\overline{EF} \parallel \overline{AB}$, and line $BE$ intersects segment $\overline{AD}$. The length $EF$ can be expressed in the form $m \sqrt{n} - p$, where $m$, $n$, and $p$ are positive integers and $n$ is not divisible by the square of any prime. Find $m + n + p$."
+Answer:36
+concept: 
+source:
+status:run
+
+question_number:aime_2011_1_p3
+question:"Let $L$ be the line with slope $\frac{5}{12}$ that contains the point $A=(24,-1)$, and let $M$ be the line perpendicular to line $L$ that contains the point $B=(5,6)$. The original coordinate axes are erased, and line $L$ is made the $x$-axis and line $M$ the $y$-axis. In the new coordinate system, point $A$ is on the positive $x$-axis, and point $B$ is on the positive $y$-axis. The point $P$ with coordinates $(-14,27)$ in the original system has coordinates $(\alpha,\beta)$ in the new coordinate system. Find $\alpha+\beta$."
+Answer:31
+concept: 
+source:
+status:run
+
+question_number:aime_2011_1_p4
+question:"In triangle $ABC$, $AB=125$, $AC=117$ and $BC=120$. The angle bisector of angle $A$ intersects $\overline{BC}$ at point $L$, and the angle bisector of angle $B$ intersects $\overline{AC}$ at point $K$. Let $M$ and $N$ be the feet of the perpendiculars from $C$ to $\overline{BK}$ and $\overline{AL}$, respectively. Find $MN$."
+Answer:56
+concept: 
+source:
+status:run
+
+question_number:aime_2011_1_p5
+question:"The vertices of a regular nonagon (9-sided polygon) are to be labeled with the digits 1 through 9 in such a way that the sum of the numbers on every three consecutive vertices is a multiple of 3. Two acceptable arrangements are considered to be indistinguishable if one can be obtained from the other by rotating the nonagon in the plane. Find the number of distinguishable acceptable arrangements."
+Answer:144
+concept: 
+source:
+status:run
+
+question_number:aime_2011_2_p1
+question:"Gary purchased a large beverage, but only drank $m/n$ of it, where $m$ and $n$ are relatively prime positive integers. If he had purchased half as much and drunk twice as much, he would have wasted only $2/9$ as much beverage. Find $m+n$."
+Answer:37
+concept: 
+source:
+status:run
+
+question_number:aime_2011_2_p2
+question:"On square $ABCD$, point $E$ lies on side $AD$ and point $F$ lies on side $BC$, so that $BE=EF=FD=30$. Find the area of the square $ABCD$."
+Answer:810
+concept: 
+source:
+status:run
+
+question_number:aime_2011_2_p3
+question:"The degree measures of the angles in a convex 18-sided polygon form an increasing arithmetic sequence with integer values. Find the degree measure of the smallest angle."
+Answer:143
+concept: 
+source:
+status:run
+
+question_number:aime_2011_2_p4
+question:"In triangle $ABC$, $AB=20$ and $AC=11$. The angle bisector of $\angle A$ intersects $BC$ at point $D$, and point $M$ is the midpoint of $AD$. Let $P$ be the point of the intersection of $AC$ and $BM$. The ratio of $CP$ to $PA$ can be expressed in the form $\dfrac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$."
+Answer:51
+concept: 
+source:
+status:run
+
+question_number:aime_2011_2_p5
+question:"The sum of the first $2011$ terms of a geometric sequence is $200$. The sum of the first $4022$ terms is $380$. Find the sum of the first $6033$ terms."
+Answer:542
+concept: 
+source:
+status:run
+
+question_number:aime_2012_1_p1
+question:"Find the number of positive integers with three not necessarily distinct digits, $abc$, with $a \neq 0$ and $c \neq 0$ such that both $abc$ and $cba$ are multiples of $4$."
+Answer:40
+concept: 
+source:
+status:run
+
+question_number:aime_2012_1_p2
+question:"The terms of an arithmetic sequence add to $715$. The first term of the sequence is increased by $1$, the second term is increased by $3$, the third term is increased by $5$, and in general, the $k$th term is increased by the $k$th odd positive integer. The terms of the new sequence add to $836$. Find the sum of the first, last, and middle terms of the original sequence."
+Answer:195
+concept: 
+source:
+status:run
+
+question_number:aime_2012_1_p3
+question:"Nine people sit down for dinner where there are three choices of meals. Three people order the beef meal, three order the chicken meal, and three order the fish meal. The waiter serves the nine meals in random order. Find the number of ways in which the waiter could serve the meal types to the nine people so that exactly one person receives the type of meal ordered by that person."
+Answer:216
+concept: 
+source:
+status:run
+
+question_number:aime_2012_1_p4
+question:"Butch and Sundance need to get out of Dodge. To travel as quickly as possible, each alternates walking and riding their only horse, Sparky, as follows. Butch begins by walking while Sundance rides. When Sundance reaches the first of the hitching posts that are conveniently located at one-mile intervals along their route, he ties Sparky to the post and begins walking. When Butch reaches Sparky, he rides until he passes Sundance, then leaves Sparky at the next hitching post and resumes walking, and they continue in this manner. Sparky, Butch, and Sundance walk at $6,$ $4,$ and $2.5$ miles per hour, respectively. The first time Butch and Sundance meet at a milepost, they are $n$ miles from Dodge, and they have been traveling for $t$ minutes. Find $n + t$."
+Answer:279
+concept: 
+source:
+status:run
+
+question_number:aime_2012_1_p5
+question:"Let $B$ be the set of all binary integers that can be written using exactly $5$ zeros and $8$ ones where leading zeros are allowed. If all possible subtractions are performed in which one element of $B$ is subtracted from another, find the number of times the answer $1$ is obtained."
+Answer:330
+concept: 
+source:
+status:run
+
+question_number:aime_2012_2_p1
+question:"Find the number of ordered pairs of positive integer solutions $(m, n)$ to the equation $20m + 12n = 2012$."
+Answer:34
+concept: 
+source:
+status:run
+
+question_number:aime_2012_2_p2
+question:"Two geometric sequences $a_1, a_2, a_3, \ldots$ and $b_1, b_2, b_3, \ldots$ have the same common ratio, with $a_1 = 27$, $b_1=99$, and $a_{15}=b_{11}$. Find $a_9$."
+Answer:363
+concept: 
+source:
+status:run
+
+question_number:aime_2012_2_p3
+question:"At a certain university, the division of mathematical sciences consists of the departments of mathematics, statistics, and computer science. There are two male and two female professors in each department. A committee of six professors is to contain three men and three women and must also contain two professors from each of the three departments. Find the number of possible committees that can be formed subject to these requirements."
+Answer:88
+concept: 
+source:
+status:run
+
+question_number:aime_2012_2_p4
+question:"Ana, Bob, and Cao bike at constant rates of $8.6$ meters per second, $6.2$ meters per second, and $5$ meters per second, respectively. They all begin biking at the same time from the northeast corner of a rectangular field whose longer side runs due west. Ana starts biking along the edge of the field, initially heading west, Bob starts biking along the edge of the field, initially heading south, and Cao bikes in a straight line across the field to a point $D$ on the south edge of the field. Cao arrives at point $D$ at the same time that Ana and Bob arrive at $D$ for the first time. The ratio of the field's length to the field's width to the distance from point $D$ to the southeast corner of the field can be represented as $p : q : r$, where $p$, $q$, and $r$ are positive integers with $p$ and $q$ relatively prime. Find $p+q+r$."
+Answer:61
+concept: 
+source:
+status:run
+
+question_number:aime_2012_2_p6
+question:"Let $z=a+bi$ be the complex number with $\vert z \vert = 5$ and $b > 0$ such that the distance between $(1+2i)z^3$ and $z^5$ is maximized, and let $z^4 = c+di$. Find $c+d$."
+Answer:125
+concept: 
+source:
+status:run
+
